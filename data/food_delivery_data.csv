@@ -1,0 +1,1003 @@
+Order_ID,Customer_ID,Order_Date,Order_Time,City,Restaurant,Food_Category,Quantity,Order_Value,Delivery_Fee,Discount,Payment_Method,Rating,Delivery_Time_Min,Distance_KM,Order_Status,Customer_Type
+FD00001,C0058,2026-01-07,21:17,Vijayawada,Tasty Treats,Biryani,1,1266,20,75,Cash,3.0,16,2.3,Delivered,New
+FD00002,C0288,2026-02-20,21:41,Kakinada,South Flavours,Biryani,4,1356,40,0,Credit Card,5.0,42,5.8,Delivered,New
+FD00003,C0173,2026-01-27,11:24,Visakhapatnam,Pizza Point,Desserts,3,1386,40,0,Cash,4.5,22,14.6,Delivered,New
+FD00004,C0283,2026-03-17,20:39,Hyderabad,Tasty Treats,Fast Food,1,243,30,30,UPI,3.5,70,2.4,Delivered,Returning
+FD00005,C0187,2026-02-11,15:22,Vijayawada,Urban Kitchen,Fast Food,1,1397,30,75,Credit Card,3.5,44,6.3,Cancelled,New
+FD00006,C0167,2026-01-15,13:52,Visakhapatnam,Pizza Point,Chinese,3,285,30,75,Debit Card,3.5,56,8.0,Delivered,New
+FD00007,C0136,2026-02-05,13:47,Chennai,Urban Kitchen,Fast Food,5,1027,60,50,Debit Card,3.5,23,8.1,Delivered,New
+FD00008,C0057,2026-02-09,20:10,Kakinada,South Flavours,South Indian,1,938,50,75,Cash,4.5,31,14.6,Delivered,New
+FD00009,C0275,2026-03-10,22:41,Hyderabad,Food Factory,Pizza,4,473,50,0,Debit Card,4.5,63,3.5,Delivered,Returning
+FD00010,C0260,2026-06-05,13:09,Hyderabad,Biryani House,South Indian,5,151,60,30,Cash,3.0,22,14.0,Delivered,New
+FD00011,C0030,2026-03-03,19:05,Visakhapatnam,Cafe Corner,Desserts,1,1240,30,20,Cash,4.5,25,4.7,Cancelled,Returning
+FD00012,C0109,2026-05-19,22:46,Kakinada,Tasty Treats,Fast Food,3,967,40,50,Cash,3.0,30,4.1,Delivered,New
+FD00013,C0284,2026-02-28,19:14,Visakhapatnam,Food Factory,Fast Food,1,618,20,0,Debit Card,3.0,47,4.3,Delivered,New
+FD00014,C0277,2026-02-03,21:59,Chennai,Cafe Corner,Biryani,4,983,30,0,UPI,5.0,42,6.0,Delivered,Returning
+FD00015,C0028,2026-06-22,20:41,Visakhapatnam,Spice Hub,Chinese,3,373,30,20,Credit Card,4.5,43,3.0,Delivered,Returning
+FD00016,C0237,2026-03-05,11:28,Chennai,Food Factory,Indian,5,180,20,20,Credit Card,4.0,46,7.7,Delivered,New
+FD00017,C0085,2026-04-08,10:24,Hyderabad,Cafe Corner,Pizza,4,1288,50,20,Credit Card,4.0,28,14.6,Cancelled,New
+FD00018,C0161,2026-01-15,10:37,Bengaluru,Biryani House,Indian,5,314,30,0,UPI,5.0,70,4.3,Delivered,New
+FD00019,C0297,2026-06-02,10:39,Visakhapatnam,South Flavours,Fast Food,5,1307,60,30,Debit Card,3.5,57,11.0,Delivered,Returning
+FD00020,C0203,2026-02-03,20:41,Hyderabad,Cafe Corner,Pizza,1,169,50,75,UPI,3.0,49,4.0,Delivered,New
+FD00021,C0179,2026-01-18,13:23,Hyderabad,Biryani House,Chinese,5,769,60,100,UPI,5.0,67,8.8,Delivered,New
+FD00022,C0136,2026-01-30,11:47,Chennai,Biryani House,Pizza,3,1388,30,100,Debit Card,3.5,58,9.9,Delivered,Returning
+FD00023,C0129,2026-01-14,11:40,Bengaluru,Urban Kitchen,Indian,1,833,30,100,Debit Card,3.5,62,7.2,Delivered,New
+FD00024,C0058,2026-01-20,21:57,Vijayawada,Spice Hub,Desserts,3,1342,60,20,Cash,3.5,17,5.3,Delivered,Returning
+FD00025,C0108,2026-06-24,13:42,Visakhapatnam,Pizza Point,Desserts,5,982,60,100,Credit Card,3.5,70,3.3,Delivered,Returning
+FD00026,C0013,2026-02-15,21:59,Hyderabad,South Flavours,Desserts,2,696,30,100,UPI,4.0,70,1.5,Delivered,New
+FD00027,C0103,2026-04-28,15:19,Vijayawada,Tasty Treats,Indian,2,966,40,30,UPI,4.0,37,10.0,Delivered,Returning
+FD00028,C0015,2026-01-30,14:11,Chennai,Urban Kitchen,Indian,1,1371,50,30,Debit Card,4.0,53,14.8,Delivered,Returning
+FD00029,C0296,2026-02-18,14:02,Kakinada,South Flavours,Indian,5,1252,30,30,Cash,3.0,75,10.3,Delivered,Returning
+FD00030,C0064,2026-03-18,18:19,Kakinada,South Flavours,Pizza,4,755,60,20,Credit Card,4.0,57,14.2,Delivered,Returning
+FD00031,C0208,2026-05-21,10:19,Hyderabad,Tasty Treats,Chinese,5,1392,40,50,Cash,4.0,58,4.0,Delivered,New
+FD00032,C0044,2026-03-14,18:42,Kakinada,Pizza Point,Indian,2,785,30,20,Credit Card,3.0,17,4.4,Delivered,New
+FD00033,C0234,2026-04-17,20:36,Vijayawada,South Flavours,Chinese,4,649,30,100,UPI,3.0,64,7.0,Delivered,Returning
+FD00034,C0026,2026-05-23,13:58,Visakhapatnam,Cafe Corner,Biryani,4,1237,60,75,Debit Card,4.0,54,12.4,Cancelled,Returning
+FD00035,C0281,2026-04-25,12:47,Bengaluru,Cafe Corner,Pizza,2,1455,40,75,Cash,5.0,30,4.8,Delivered,Returning
+FD00036,C0121,2026-03-11,15:20,Chennai,Food Factory,Biryani,2,623,50,100,Credit Card,5.0,28,1.9,Delivered,Returning
+FD00037,C0278,2026-04-30,16:03,Vijayawada,South Flavours,Chinese,5,190,60,50,Cash,3.0,75,5.9,Delivered,Returning
+FD00038,C0276,2026-05-20,22:38,Vijayawada,Cafe Corner,Biryani,3,1042,50,0,Cash,4.0,57,10.5,Delivered,New
+FD00039,C0240,2026-02-02,19:34,Visakhapatnam,South Flavours,South Indian,5,205,20,100,Cash,3.5,70,7.5,Delivered,Returning
+FD00040,C0195,2026-03-25,13:29,Hyderabad,Pizza Point,Desserts,4,719,50,30,UPI,4.0,16,11.5,Delivered,Returning
+FD00041,C0115,2026-06-16,11:49,Kakinada,Spice Hub,Desserts,1,656,30,0,Credit Card,3.5,23,7.6,Delivered,New
+FD00042,C0239,2026-06-29,14:49,Hyderabad,Biryani House,South Indian,5,384,30,30,UPI,4.5,16,14.0,Cancelled,Returning
+FD00043,C0204,2026-02-20,11:37,Kakinada,Tasty Treats,Indian,3,1379,20,75,UPI,4.0,49,7.0,Delivered,New
+FD00044,C0260,2026-06-15,15:00,Bengaluru,Cafe Corner,Indian,4,891,50,100,Credit Card,4.0,26,11.3,Delivered,Returning
+FD00045,C0239,2026-04-22,21:37,Hyderabad,Pizza Point,Desserts,2,327,40,50,Credit Card,4.0,51,9.5,Delivered,Returning
+FD00046,C0015,2026-05-07,15:11,Bengaluru,Tasty Treats,Pizza,3,847,40,75,Debit Card,4.5,15,8.2,Delivered,New
+FD00047,C0124,2026-04-15,17:35,Vijayawada,Cafe Corner,Fast Food,4,1067,20,0,Debit Card,3.5,40,10.7,Delivered,Returning
+FD00048,C0243,2026-05-22,18:22,Bengaluru,Pizza Point,Pizza,4,704,40,30,Credit Card,3.0,61,3.7,Delivered,New
+FD00049,C0099,2026-02-25,21:30,Hyderabad,Urban Kitchen,Indian,2,756,30,30,Credit Card,4.0,15,10.9,Delivered,Returning
+FD00050,C0024,2026-01-14,18:18,Kakinada,Biryani House,Fast Food,4,360,20,75,Debit Card,4.0,45,7.2,Delivered,New
+FD00051,C0130,2026-05-03,11:52,Visakhapatnam,South Flavours,Chinese,1,1331,20,20,Credit Card,4.5,75,5.3,Delivered,New
+FD00052,C0286,2026-04-17,19:38,Chennai,Tasty Treats,Desserts,5,929,50,50,Debit Card,4.5,42,5.3,Cancelled,New
+FD00053,C0051,2026-02-23,20:13,Hyderabad,Food Factory,Biryani,2,505,60,0,Credit Card,3.0,41,7.3,Cancelled,Returning
+FD00054,C0150,2026-01-09,13:18,Kakinada,Urban Kitchen,Fast Food,4,295,30,30,Credit Card,4.0,22,8.6,Delivered,Returning
+FD00055,C0073,2026-01-19,10:10,Hyderabad,Urban Kitchen,Chinese,1,1109,40,100,Cash,4.0,47,8.6,Delivered,New
+FD00056,C0021,2026-04-21,21:20,Chennai,Urban Kitchen,Indian,1,618,60,75,UPI,5.0,67,4.8,Delivered,New
+FD00057,C0241,2026-05-13,20:28,Hyderabad,Biryani House,South Indian,4,1450,50,0,Cash,4.0,41,5.7,Delivered,New
+FD00058,C0169,2026-04-16,21:31,Hyderabad,South Flavours,Desserts,5,225,50,0,Debit Card,4.0,35,2.6,Delivered,New
+FD00059,C0278,2026-04-29,16:03,Vijayawada,Pizza Point,South Indian,4,1430,50,0,Credit Card,4.0,50,2.8,Delivered,Returning
+FD00060,C0249,2026-02-01,10:40,Chennai,Tasty Treats,Fast Food,2,786,60,0,Cash,3.0,29,14.9,Delivered,Returning
+FD00061,C0061,2026-06-15,12:31,Kakinada,Urban Kitchen,South Indian,3,1000,50,50,Credit Card,4.0,50,3.0,Delivered,New
+FD00062,C0036,2026-03-12,22:50,Bengaluru,Pizza Point,Desserts,5,697,20,30,Debit Card,4.5,52,15.0,Delivered,New
+FD00063,C0229,2026-05-18,17:22,Hyderabad,South Flavours,Chinese,3,536,30,75,Cash,3.5,69,11.9,Delivered,Returning
+FD00064,C0243,2026-04-08,16:42,Kakinada,Biryani House,Chinese,1,408,60,75,Debit Card,3.0,70,12.8,Delivered,Returning
+FD00065,C0008,2026-02-06,16:55,Kakinada,Biryani House,Indian,4,692,40,75,Cash,5.0,20,12.9,Cancelled,Returning
+FD00066,C0163,2026-06-10,21:56,Bengaluru,Spice Hub,South Indian,1,630,40,20,UPI,4.0,21,11.6,Delivered,Returning
+FD00067,C0086,2026-06-27,14:57,Visakhapatnam,Spice Hub,Pizza,1,750,40,30,Cash,3.5,30,8.4,Cancelled,New
+FD00068,C0088,2026-02-14,11:39,Bengaluru,Tasty Treats,Chinese,5,443,30,50,Debit Card,4.0,31,10.3,Delivered,Returning
+FD00069,C0280,2026-02-10,11:28,Hyderabad,Urban Kitchen,Fast Food,4,662,50,30,Credit Card,4.0,69,7.8,Delivered,Returning
+FD00070,C0293,2026-04-02,19:18,Kakinada,Urban Kitchen,Indian,4,712,20,75,UPI,4.5,62,8.0,Delivered,New
+FD00071,C0181,2026-02-26,20:12,Chennai,Urban Kitchen,Fast Food,2,1436,20,100,UPI,4.0,65,7.2,Cancelled,Returning
+FD00072,C0068,2026-01-24,14:20,Kakinada,South Flavours,Biryani,2,420,60,30,Debit Card,3.5,31,13.8,Delivered,Returning
+FD00073,C0174,2026-01-30,17:04,Vijayawada,Tasty Treats,Desserts,4,1291,40,0,Cash,3.0,31,8.5,Delivered,Returning
+FD00074,C0135,2026-05-30,16:52,Kakinada,Pizza Point,Indian,2,1115,20,75,Debit Card,4.5,29,10.1,Delivered,Returning
+FD00075,C0210,2026-01-30,12:02,Visakhapatnam,Urban Kitchen,Chinese,1,349,30,75,Credit Card,4.0,44,6.2,Cancelled,Returning
+FD00076,C0080,2026-04-17,20:06,Bengaluru,South Flavours,Pizza,1,908,30,50,Cash,3.5,69,6.1,Delivered,Returning
+FD00077,C0032,2026-04-12,14:12,Visakhapatnam,Cafe Corner,Indian,2,1464,60,0,UPI,4.0,30,14.8,Cancelled,New
+FD00078,C0036,2026-05-22,13:37,Vijayawada,Tasty Treats,Pizza,2,1370,20,30,Credit Card,3.5,49,4.5,Delivered,New
+FD00079,C0014,2026-02-03,10:22,Vijayawada,Pizza Point,Indian,2,693,20,20,Cash,4.5,22,11.4,Delivered,Returning
+FD00080,C0186,2026-05-12,19:06,Bengaluru,Tasty Treats,South Indian,1,1499,60,30,Cash,5.0,16,1.9,Delivered,Returning
+FD00081,C0219,2026-06-25,11:31,Kakinada,Cafe Corner,Indian,1,809,60,20,UPI,3.5,32,9.7,Cancelled,Returning
+FD00082,C0196,2026-06-02,18:18,Bengaluru,South Flavours,Indian,1,1490,60,100,Credit Card,4.0,43,13.4,Delivered,Returning
+FD00083,C0233,2026-04-13,16:46,Visakhapatnam,Pizza Point,Chinese,3,672,40,20,Cash,3.0,20,12.6,Delivered,Returning
+FD00084,C0050,2026-04-06,22:08,Chennai,Spice Hub,South Indian,5,1300,40,100,UPI,4.0,37,13.2,Delivered,New
+FD00085,C0148,2026-06-03,14:22,Visakhapatnam,Tasty Treats,Biryani,4,609,20,30,Debit Card,3.0,63,4.9,Delivered,Returning
+FD00086,C0288,2026-06-09,19:43,Kakinada,Spice Hub,South Indian,3,209,30,30,Debit Card,4.0,37,1.1,Delivered,Returning
+FD00087,C0036,2026-02-06,21:40,Visakhapatnam,Food Factory,Fast Food,5,590,50,50,Cash,4.0,25,6.2,Delivered,New
+FD00088,C0027,2026-02-09,12:48,Chennai,Spice Hub,Fast Food,1,707,50,100,Cash,4.0,53,7.2,Delivered,New
+FD00089,C0263,2026-01-30,15:27,Visakhapatnam,Urban Kitchen,Fast Food,5,1146,60,100,Debit Card,3.0,29,6.5,Cancelled,New
+FD00090,C0004,2026-02-22,14:13,Vijayawada,Urban Kitchen,Pizza,3,395,20,50,Cash,3.5,23,6.3,Delivered,Returning
+FD00091,C0037,2026-04-12,21:02,Bengaluru,Spice Hub,Chinese,1,791,60,50,Cash,5.0,55,6.8,Delivered,Returning
+FD00092,C0011,2026-03-25,12:51,Chennai,Cafe Corner,Desserts,3,330,50,0,Credit Card,4.0,52,6.6,Delivered,Returning
+FD00093,C0159,2026-03-28,13:21,Vijayawada,Food Factory,South Indian,1,1236,60,20,Debit Card,4.0,61,14.4,Delivered,New
+FD00094,C0053,2026-02-07,14:12,Vijayawada,Biryani House,Desserts,1,512,50,50,Cash,5.0,74,13.3,Cancelled,Returning
+FD00095,C0162,2026-02-08,17:04,Bengaluru,Cafe Corner,Fast Food,3,712,60,0,Debit Card,4.5,19,5.3,Delivered,New
+FD00096,C0030,2026-04-05,14:04,Kakinada,Food Factory,South Indian,5,1188,50,50,UPI,4.0,73,12.3,Delivered,Returning
+FD00097,C0244,2026-05-09,12:03,Bengaluru,Food Factory,Desserts,3,322,60,100,Credit Card,3.0,30,10.9,Delivered,New
+FD00098,C0187,2026-04-06,14:24,Bengaluru,Pizza Point,Fast Food,5,257,40,0,Debit Card,3.0,50,10.5,Delivered,Returning
+FD00099,C0077,2026-03-27,11:37,Kakinada,Biryani House,Pizza,3,1493,50,20,UPI,4.0,50,6.3,Delivered,New
+FD00100,C0270,2026-01-24,20:42,Bengaluru,Pizza Point,Indian,3,782,30,20,Debit Card,4.0,27,4.2,Delivered,New
+FD00101,C0040,2026-03-17,22:06,Chennai,Spice Hub,Fast Food,3,1415,30,75,Cash,3.5,25,3.5,Cancelled,New
+FD00102,C0225,2026-01-12,16:23,Kakinada,Tasty Treats,Chinese,5,733,50,20,Credit Card,4.0,66,12.0,Delivered,Returning
+FD00103,C0293,2026-04-23,17:49,Hyderabad,South Flavours,South Indian,5,1007,30,20,Credit Card,4.0,18,10.0,Delivered,New
+FD00104,C0265,2026-02-01,14:05,Vijayawada,Urban Kitchen,Chinese,5,451,50,0,Credit Card,4.0,71,5.9,Delivered,Returning
+FD00105,C0028,2026-04-12,18:23,Vijayawada,South Flavours,Indian,3,609,20,30,UPI,5.0,56,5.7,Delivered,New
+FD00106,C0020,2026-03-15,17:44,Vijayawada,Cafe Corner,Chinese,5,160,20,0,Debit Card,3.5,68,3.1,Cancelled,Returning
+FD00107,C0057,2026-03-15,13:19,Visakhapatnam,Spice Hub,Biryani,4,1458,60,50,UPI,3.0,68,13.7,Cancelled,New
+FD00108,C0264,2026-05-28,13:45,Vijayawada,Urban Kitchen,Chinese,1,1409,40,20,Cash,3.5,57,10.4,Cancelled,Returning
+FD00109,C0035,2026-05-15,18:32,Chennai,Spice Hub,Chinese,4,239,50,30,Debit Card,5.0,16,6.0,Delivered,Returning
+FD00110,C0124,2026-06-18,20:06,Chennai,Pizza Point,Biryani,1,871,60,30,Credit Card,5.0,44,14.7,Delivered,New
+FD00111,C0070,2026-01-17,21:49,Bengaluru,Spice Hub,Pizza,2,239,30,0,Debit Card,4.0,47,6.6,Cancelled,Returning
+FD00112,C0130,2026-01-10,22:41,Vijayawada,Urban Kitchen,Pizza,1,1492,40,30,UPI,4.0,42,13.5,Delivered,Returning
+FD00113,C0174,2026-02-17,17:44,Bengaluru,Pizza Point,Desserts,5,696,20,100,Cash,3.0,42,9.4,Delivered,Returning
+FD00114,C0165,2026-01-27,11:20,Kakinada,Urban Kitchen,Pizza,4,1384,50,20,Cash,4.0,43,1.6,Delivered,Returning
+FD00115,C0141,2026-06-13,22:03,Visakhapatnam,South Flavours,Pizza,5,477,20,20,Cash,3.0,23,1.9,Delivered,Returning
+FD00116,C0197,2026-05-26,10:38,Vijayawada,Cafe Corner,Pizza,3,1059,20,75,Credit Card,4.5,38,6.6,Delivered,New
+FD00117,C0059,2026-01-07,21:11,Bengaluru,South Flavours,South Indian,1,686,40,100,Cash,3.5,54,5.0,Delivered,New
+FD00118,C0063,2026-02-04,11:28,Vijayawada,Cafe Corner,Indian,3,861,20,75,Debit Card,4.0,69,3.2,Delivered,Returning
+FD00119,C0261,2026-02-27,11:12,Vijayawada,Tasty Treats,Desserts,4,203,40,75,Debit Card,4.0,66,14.8,Delivered,New
+FD00120,C0034,2026-03-21,16:45,Kakinada,Cafe Corner,South Indian,4,988,60,0,Credit Card,4.0,56,2.0,Delivered,Returning
+FD00121,C0066,2026-05-22,20:37,Vijayawada,Biryani House,Chinese,5,263,20,75,Credit Card,4.0,25,3.3,Delivered,Returning
+FD00122,C0266,2026-03-14,11:16,Vijayawada,Urban Kitchen,Biryani,3,1408,60,0,Credit Card,4.5,75,9.1,Delivered,Returning
+FD00123,C0289,2026-01-11,10:05,Visakhapatnam,Urban Kitchen,Fast Food,2,1321,50,75,UPI,4.0,71,9.8,Delivered,Returning
+FD00124,C0248,2026-03-04,22:51,Kakinada,South Flavours,Pizza,4,299,20,20,Cash,4.0,45,7.5,Delivered,New
+FD00125,C0161,2026-03-23,21:55,Hyderabad,South Flavours,Biryani,3,1204,60,0,Debit Card,3.5,44,2.7,Delivered,New
+FD00126,C0073,2026-01-25,10:18,Bengaluru,South Flavours,Biryani,2,820,60,100,Debit Card,3.5,63,3.2,Cancelled,Returning
+FD00127,C0256,2026-03-20,17:01,Visakhapatnam,South Flavours,South Indian,4,643,30,75,Debit Card,3.0,18,4.9,Cancelled,Returning
+FD00128,C0147,2026-05-18,10:54,Visakhapatnam,South Flavours,Biryani,3,899,50,30,UPI,4.0,18,9.0,Delivered,Returning
+FD00129,C0284,2026-03-15,11:24,Chennai,Cafe Corner,Desserts,5,722,60,100,UPI,3.5,21,6.5,Delivered,Returning
+FD00130,C0074,2026-02-20,19:32,Bengaluru,Spice Hub,Indian,1,430,40,50,Cash,3.5,53,13.5,Delivered,Returning
+FD00131,C0164,2026-02-11,16:39,Kakinada,Urban Kitchen,South Indian,3,1188,60,75,Cash,5.0,51,5.2,Delivered,Returning
+FD00132,C0170,2026-06-22,11:26,Chennai,Urban Kitchen,Desserts,1,1372,50,30,Credit Card,5.0,18,9.2,Delivered,Returning
+FD00133,C0076,2026-06-24,13:02,Chennai,Food Factory,Biryani,1,1053,40,50,Credit Card,4.0,59,3.9,Cancelled,Returning
+FD00134,C0032,2026-02-05,18:13,Chennai,Pizza Point,Fast Food,4,1226,50,30,Credit Card,4.0,73,8.5,Cancelled,Returning
+FD00135,C0136,2026-06-06,17:12,Vijayawada,Urban Kitchen,South Indian,3,610,40,30,Credit Card,5.0,60,7.8,Delivered,Returning
+FD00136,C0287,2026-03-12,14:07,Chennai,South Flavours,Chinese,3,449,40,0,Debit Card,5.0,20,5.8,Delivered,Returning
+FD00137,C0246,2026-02-24,13:52,Chennai,Urban Kitchen,South Indian,3,431,20,75,Credit Card,3.5,18,10.4,Cancelled,New
+FD00138,C0120,2026-01-14,11:26,Hyderabad,Cafe Corner,Indian,2,160,60,20,Cash,5.0,74,13.3,Delivered,Returning
+FD00139,C0103,2026-03-15,15:18,Kakinada,Spice Hub,Desserts,1,1485,60,20,UPI,3.5,41,13.4,Delivered,New
+FD00140,C0204,2026-05-07,12:59,Kakinada,Urban Kitchen,Indian,1,761,60,75,UPI,4.0,33,7.4,Cancelled,Returning
+FD00141,C0069,2026-05-10,17:17,Vijayawada,Food Factory,Pizza,2,1089,40,100,Credit Card,3.0,62,5.7,Delivered,New
+FD00142,C0090,2026-06-06,20:57,Bengaluru,South Flavours,South Indian,3,327,50,100,UPI,3.5,23,7.7,Delivered,New
+FD00143,C0134,2026-04-09,13:28,Hyderabad,Pizza Point,Pizza,5,1323,20,30,Debit Card,5.0,30,1.9,Delivered,Returning
+FD00144,C0158,2026-02-10,16:43,Chennai,Urban Kitchen,Fast Food,1,1458,40,30,Credit Card,3.5,23,7.7,Delivered,Returning
+FD00145,C0213,2026-06-29,18:58,Bengaluru,Tasty Treats,Desserts,2,1370,20,75,Cash,4.5,60,6.1,Cancelled,New
+FD00146,C0032,2026-05-21,18:12,Chennai,Biryani House,Biryani,3,1215,50,0,Credit Card,5.0,52,7.8,Cancelled,Returning
+FD00147,C0029,2026-04-27,12:32,Bengaluru,Cafe Corner,South Indian,1,1294,50,100,Debit Card,5.0,16,6.5,Delivered,New
+FD00148,C0297,2026-01-19,10:27,Hyderabad,Food Factory,South Indian,1,291,50,0,Debit Card,4.0,26,11.8,Delivered,Returning
+FD00149,C0196,2026-04-25,16:24,Visakhapatnam,Biryani House,Fast Food,3,392,30,75,Cash,4.5,23,11.2,Delivered,New
+FD00150,C0012,2026-03-18,17:43,Kakinada,South Flavours,South Indian,4,620,30,50,Debit Card,3.5,32,3.6,Delivered,New
+FD00151,C0215,2026-06-07,22:59,Visakhapatnam,Tasty Treats,Biryani,1,356,60,0,Cash,4.5,58,10.8,Delivered,New
+FD00152,C0023,2026-04-13,17:14,Chennai,Tasty Treats,Desserts,1,436,60,30,Credit Card,5.0,51,5.5,Cancelled,Returning
+FD00153,C0122,2026-03-19,12:42,Chennai,Tasty Treats,Chinese,3,713,20,75,Credit Card,5.0,58,7.0,Delivered,New
+FD00154,C0177,2026-06-14,20:24,Chennai,Pizza Point,Fast Food,4,986,30,30,Cash,3.5,63,8.5,Delivered,New
+FD00155,C0154,2026-02-06,22:29,Visakhapatnam,South Flavours,Chinese,5,1235,30,50,Credit Card,4.0,28,5.6,Delivered,Returning
+FD00156,C0190,2026-01-24,18:46,Vijayawada,Spice Hub,Pizza,4,1388,60,0,UPI,3.5,66,11.7,Cancelled,New
+FD00157,C0246,2026-02-23,15:19,Visakhapatnam,Tasty Treats,Biryani,1,1130,30,100,Credit Card,4.0,73,4.4,Delivered,Returning
+FD00158,C0195,2026-04-30,18:41,Hyderabad,Urban Kitchen,Pizza,3,1200,50,50,UPI,5.0,45,11.7,Delivered,New
+FD00159,C0190,2026-03-22,16:02,Chennai,Tasty Treats,Fast Food,2,183,40,75,Cash,4.0,24,3.7,Delivered,Returning
+FD00160,C0292,2026-03-04,17:35,Kakinada,Pizza Point,Pizza,4,1464,50,50,Credit Card,5.0,65,5.9,Delivered,Returning
+FD00161,C0095,2026-05-19,20:03,Chennai,Spice Hub,Desserts,1,249,20,50,Credit Card,5.0,29,2.0,Delivered,New
+FD00162,C0112,2026-05-10,17:23,Visakhapatnam,Cafe Corner,Fast Food,4,182,20,75,Cash,3.0,16,8.4,Delivered,Returning
+FD00163,C0009,2026-05-09,21:43,Bengaluru,Biryani House,Indian,1,1223,30,20,Credit Card,4.5,48,4.5,Delivered,Returning
+FD00164,C0204,2026-01-21,15:25,Bengaluru,Tasty Treats,Fast Food,2,764,20,100,UPI,3.0,40,6.3,Cancelled,Returning
+FD00165,C0029,2026-06-13,10:44,Vijayawada,Food Factory,Chinese,4,1470,40,75,UPI,4.5,73,1.6,Delivered,Returning
+FD00166,C0139,2026-01-12,11:43,Hyderabad,Spice Hub,Biryani,3,182,30,75,Credit Card,5.0,67,6.6,Delivered,Returning
+FD00167,C0084,2026-05-25,13:36,Bengaluru,Pizza Point,Chinese,2,310,60,100,Debit Card,3.0,21,7.1,Delivered,Returning
+FD00168,C0204,2026-03-25,10:40,Hyderabad,Cafe Corner,Chinese,2,878,60,50,Cash,3.5,58,9.2,Delivered,New
+FD00169,C0152,2026-03-05,21:04,Visakhapatnam,Urban Kitchen,Biryani,4,1448,30,100,Cash,4.0,38,2.5,Delivered,Returning
+FD00170,C0228,2026-04-03,22:17,Visakhapatnam,Biryani House,Indian,2,1032,50,75,Cash,3.0,16,2.3,Cancelled,New
+FD00171,C0167,2026-04-09,10:18,Bengaluru,South Flavours,Desserts,1,1295,30,75,Credit Card,5.0,39,3.4,Delivered,Returning
+FD00172,C0138,2026-05-07,12:04,Vijayawada,South Flavours,Pizza,4,763,50,0,Debit Card,4.0,75,4.5,Delivered,New
+FD00173,C0235,2026-01-28,12:19,Visakhapatnam,South Flavours,Pizza,5,928,40,50,Debit Card,4.0,67,12.5,Cancelled,New
+FD00174,C0154,2026-03-24,19:44,Vijayawada,Cafe Corner,Pizza,2,965,40,30,Cash,4.5,65,4.4,Delivered,Returning
+FD00175,C0202,2026-04-04,11:59,Chennai,Tasty Treats,South Indian,5,518,60,0,Cash,5.0,28,7.1,Delivered,New
+FD00176,C0210,2026-06-22,17:08,Kakinada,Urban Kitchen,Biryani,3,1498,30,100,Cash,4.0,19,7.3,Cancelled,Returning
+FD00177,C0299,2026-04-13,18:32,Kakinada,South Flavours,South Indian,1,886,60,75,UPI,3.0,64,4.5,Delivered,New
+FD00178,C0023,2026-05-25,20:43,Kakinada,South Flavours,Desserts,3,1031,20,0,UPI,4.0,29,8.1,Cancelled,New
+FD00179,C0229,2026-04-06,16:29,Kakinada,Biryani House,Pizza,1,1138,20,30,Cash,3.0,22,12.6,Delivered,Returning
+FD00180,C0160,2026-03-29,17:50,Vijayawada,Cafe Corner,Pizza,4,349,50,100,Cash,4.0,19,5.2,Delivered,New
+FD00181,C0176,2026-06-15,11:43,Vijayawada,Tasty Treats,South Indian,2,1280,30,30,Cash,4.0,29,12.2,Delivered,New
+FD00182,C0222,2026-04-12,10:47,Chennai,Tasty Treats,Chinese,5,1029,50,0,Credit Card,3.5,32,11.5,Delivered,New
+FD00183,C0275,2026-02-17,15:20,Vijayawada,Cafe Corner,Indian,3,1152,60,100,Debit Card,4.5,39,9.6,Cancelled,New
+FD00184,C0179,2026-04-01,17:39,Vijayawada,Urban Kitchen,South Indian,5,323,30,30,UPI,3.5,34,2.6,Delivered,New
+FD00185,C0262,2026-04-10,16:38,Vijayawada,South Flavours,Chinese,2,1146,60,100,Credit Card,4.5,25,7.9,Delivered,New
+FD00186,C0162,2026-04-26,19:03,Hyderabad,Spice Hub,Chinese,2,549,50,75,Cash,4.0,58,7.9,Delivered,Returning
+FD00187,C0086,2026-01-22,19:01,Vijayawada,Urban Kitchen,Indian,3,610,60,30,Credit Card,4.0,51,11.4,Delivered,New
+FD00188,C0294,2026-01-30,14:49,Chennai,Pizza Point,South Indian,1,1053,60,20,Cash,3.0,62,12.6,Delivered,Returning
+FD00189,C0017,2026-04-26,14:22,Visakhapatnam,Cafe Corner,Desserts,1,635,30,100,Debit Card,5.0,54,9.9,Delivered,New
+FD00190,C0106,2026-02-22,22:03,Chennai,Pizza Point,South Indian,3,1372,60,20,Debit Card,5.0,33,5.1,Delivered,New
+FD00191,C0070,2026-04-16,10:17,Kakinada,Biryani House,Fast Food,2,661,30,100,Debit Card,3.5,63,12.8,Delivered,Returning
+FD00192,C0073,2026-05-28,20:17,Kakinada,South Flavours,Chinese,4,304,20,50,Debit Card,5.0,74,13.3,Delivered,Returning
+FD00193,C0168,2026-05-29,10:55,Kakinada,Food Factory,Fast Food,4,1450,40,0,Cash,3.5,42,12.5,Delivered,Returning
+FD00194,C0166,2026-03-14,15:35,Chennai,Biryani House,South Indian,4,853,20,0,UPI,5.0,65,12.7,Delivered,New
+FD00195,C0081,2026-04-23,17:00,Bengaluru,Tasty Treats,Fast Food,2,1481,40,20,Debit Card,3.0,56,6.0,Delivered,Returning
+FD00196,C0085,2026-01-14,16:40,Hyderabad,Tasty Treats,Chinese,1,344,20,20,Cash,3.0,23,9.3,Cancelled,Returning
+FD00197,C0005,2026-01-03,21:21,Visakhapatnam,South Flavours,Fast Food,2,1128,20,20,Cash,3.0,61,12.3,Delivered,Returning
+FD00198,C0189,2026-03-18,12:24,Vijayawada,Biryani House,Indian,5,1303,20,75,Credit Card,4.0,37,11.1,Delivered,Returning
+FD00199,C0227,2026-02-25,11:57,Visakhapatnam,Biryani House,Desserts,1,1357,50,30,Cash,4.0,65,3.0,Delivered,New
+FD00200,C0128,2026-05-22,19:38,Kakinada,Urban Kitchen,Desserts,1,1498,40,20,Credit Card,5.0,40,5.1,Delivered,New
+FD00201,C0254,2026-04-09,11:15,Bengaluru,Food Factory,South Indian,1,889,40,20,Cash,4.5,41,6.1,Delivered,Returning
+FD00202,C0038,2026-01-05,19:04,Visakhapatnam,Urban Kitchen,Biryani,1,273,50,75,Debit Card,5.0,60,8.0,Delivered,Returning
+FD00203,C0206,2026-01-22,20:34,Chennai,Biryani House,Pizza,1,784,20,75,Credit Card,3.5,49,5.6,Cancelled,New
+FD00204,C0159,2026-06-28,16:46,Vijayawada,Spice Hub,Biryani,1,1039,20,50,UPI,4.0,57,11.4,Delivered,New
+FD00205,C0007,2026-02-05,21:00,Vijayawada,Cafe Corner,Pizza,5,1209,40,20,Debit Card,3.5,62,11.9,Delivered,New
+FD00206,C0016,2026-03-27,22:27,Hyderabad,Food Factory,Pizza,5,1435,20,50,Cash,4.5,38,1.8,Cancelled,New
+FD00207,C0189,2026-02-10,14:49,Visakhapatnam,Food Factory,Biryani,5,155,20,0,Credit Card,3.0,45,6.1,Delivered,New
+FD00208,C0019,2026-05-22,22:58,Kakinada,South Flavours,Biryani,3,658,50,100,Debit Card,4.0,67,2.1,Delivered,New
+FD00209,C0258,2026-06-22,10:11,Vijayawada,Spice Hub,Chinese,1,1102,40,30,Debit Card,3.0,50,7.4,Delivered,New
+FD00210,C0150,2026-05-25,22:19,Kakinada,Tasty Treats,Chinese,3,1361,50,20,Credit Card,3.5,15,14.1,Delivered,New
+FD00211,C0278,2026-03-30,20:53,Kakinada,Spice Hub,Pizza,1,1496,50,100,Debit Card,3.0,28,8.4,Delivered,Returning
+FD00212,C0252,2026-01-16,12:45,Hyderabad,Food Factory,Indian,2,1214,50,100,Debit Card,4.0,62,2.2,Delivered,New
+FD00213,C0202,2026-01-20,19:36,Visakhapatnam,South Flavours,Fast Food,2,634,40,30,Debit Card,4.0,59,12.6,Delivered,Returning
+FD00214,C0232,2026-03-11,13:04,Vijayawada,Biryani House,Desserts,5,373,30,0,Credit Card,4.0,44,5.4,Delivered,Returning
+FD00215,C0107,2026-04-26,14:29,Hyderabad,Food Factory,Indian,2,773,60,0,Credit Card,4.0,24,2.3,Delivered,Returning
+FD00216,C0203,2026-05-12,10:43,Hyderabad,Urban Kitchen,Desserts,2,213,50,50,Credit Card,3.0,44,2.4,Delivered,New
+FD00217,C0007,2026-01-16,22:14,Vijayawada,Tasty Treats,Desserts,4,912,20,75,Debit Card,3.0,16,15.0,Delivered,Returning
+FD00218,C0066,2026-01-24,22:21,Visakhapatnam,Spice Hub,Chinese,1,494,60,50,Cash,4.0,16,6.4,Delivered,New
+FD00219,C0182,2026-02-24,12:17,Hyderabad,Cafe Corner,Biryani,1,1407,60,75,Credit Card,5.0,33,8.0,Cancelled,Returning
+FD00220,C0032,2026-01-23,14:24,Vijayawada,South Flavours,Biryani,5,660,60,0,Cash,5.0,37,7.7,Delivered,Returning
+FD00221,C0290,2026-05-09,15:24,Hyderabad,Biryani House,Indian,3,1372,30,0,Debit Card,3.0,66,14.9,Cancelled,Returning
+FD00222,C0300,2026-03-01,12:06,Vijayawada,Tasty Treats,Pizza,5,264,30,75,Cash,4.0,74,12.7,Delivered,New
+FD00223,C0122,2026-06-01,15:51,Kakinada,Pizza Point,South Indian,1,870,60,75,Credit Card,4.5,75,3.6,Delivered,Returning
+FD00224,C0090,2026-05-06,10:05,Visakhapatnam,Tasty Treats,South Indian,2,190,60,50,UPI,4.0,73,9.6,Delivered,Returning
+FD00225,C0091,2026-03-24,10:01,Vijayawada,Biryani House,Desserts,1,1227,40,0,Debit Card,5.0,75,10.3,Cancelled,New
+FD00226,C0173,2026-03-19,15:08,Vijayawada,South Flavours,Desserts,4,1479,40,20,Debit Card,3.5,57,9.2,Delivered,Returning
+FD00227,C0158,2026-06-26,14:08,Vijayawada,Spice Hub,Fast Food,5,951,60,0,Credit Card,4.5,35,13.9,Cancelled,New
+FD00228,C0290,2026-01-27,17:09,Hyderabad,Food Factory,Biryani,3,804,30,100,UPI,5.0,57,9.9,Delivered,Returning
+FD00229,C0006,2026-03-09,13:15,Kakinada,Food Factory,Pizza,3,371,20,0,Cash,4.0,61,6.9,Delivered,Returning
+FD00230,C0253,2026-04-07,15:34,Bengaluru,Food Factory,Desserts,4,1333,30,20,Cash,3.0,66,12.8,Delivered,New
+FD00231,C0164,2026-03-08,11:04,Hyderabad,Biryani House,Chinese,2,303,60,0,Debit Card,4.5,54,13.5,Delivered,Returning
+FD00232,C0085,2026-06-05,16:10,Visakhapatnam,Food Factory,Pizza,2,539,50,100,Debit Card,5.0,33,5.2,Delivered,New
+FD00233,C0202,2026-05-27,18:53,Bengaluru,Biryani House,Indian,3,157,50,0,Debit Card,5.0,55,9.4,Delivered,New
+FD00234,C0014,2026-02-22,12:40,Hyderabad,Food Factory,Chinese,1,781,50,50,Cash,5.0,31,2.3,Cancelled,Returning
+FD00235,C0095,2026-04-05,16:23,Vijayawada,Cafe Corner,Indian,3,1050,50,30,Credit Card,4.0,51,1.9,Delivered,New
+FD00236,C0177,2026-05-19,16:48,Chennai,Tasty Treats,South Indian,1,942,60,50,Cash,4.5,71,4.3,Delivered,New
+FD00237,C0203,2026-01-09,18:36,Chennai,Biryani House,Indian,4,504,30,20,Credit Card,3.5,17,6.9,Delivered,New
+FD00238,C0076,2026-06-02,14:20,Kakinada,Food Factory,Indian,4,1289,50,75,Debit Card,4.0,48,7.4,Delivered,Returning
+FD00239,C0058,2026-04-17,12:09,Chennai,Food Factory,Indian,5,356,40,75,Debit Card,4.0,31,6.4,Delivered,Returning
+FD00240,C0020,2026-02-14,14:25,Vijayawada,South Flavours,Indian,4,828,30,0,Cash,4.0,72,6.2,Delivered,Returning
+FD00241,C0160,2026-03-13,17:54,Kakinada,Food Factory,Desserts,2,425,40,100,Cash,4.0,32,11.2,Cancelled,New
+FD00242,C0097,2026-04-24,13:58,Bengaluru,Cafe Corner,Desserts,5,915,20,75,Credit Card,3.0,34,10.9,Delivered,New
+FD00243,C0269,2026-05-26,10:11,Vijayawada,Tasty Treats,Desserts,1,660,20,50,UPI,4.0,60,3.8,Delivered,Returning
+FD00244,C0259,2026-04-12,20:59,Visakhapatnam,Spice Hub,Biryani,3,1151,60,50,Credit Card,4.0,52,8.7,Delivered,New
+FD00245,C0133,2026-06-26,11:18,Visakhapatnam,South Flavours,Indian,2,1321,30,20,Credit Card,5.0,28,4.8,Delivered,New
+FD00246,C0005,2026-05-02,12:41,Vijayawada,Spice Hub,Biryani,3,1395,40,100,Debit Card,4.0,72,6.3,Delivered,Returning
+FD00247,C0130,2026-02-25,17:19,Kakinada,South Flavours,South Indian,1,165,60,100,Debit Card,4.5,56,9.3,Delivered,Returning
+FD00248,C0056,2026-05-04,11:21,Hyderabad,Pizza Point,Desserts,3,684,40,20,Credit Card,4.5,63,4.4,Delivered,Returning
+FD00249,C0164,2026-06-24,12:46,Visakhapatnam,Cafe Corner,Pizza,3,1007,50,50,UPI,4.5,60,14.9,Delivered,Returning
+FD00250,C0114,2026-06-25,18:40,Bengaluru,Pizza Point,South Indian,3,498,60,20,Debit Card,3.0,45,2.8,Delivered,New
+FD00251,C0172,2026-06-17,11:14,Hyderabad,Tasty Treats,Fast Food,3,1011,40,30,Debit Card,4.5,33,7.5,Delivered,Returning
+FD00252,C0028,2026-06-12,19:37,Chennai,Food Factory,Chinese,2,1174,20,100,Cash,4.5,34,6.8,Delivered,New
+FD00253,C0103,2026-03-29,16:36,Bengaluru,Biryani House,Pizza,2,315,50,30,Credit Card,4.0,55,1.8,Delivered,Returning
+FD00254,C0108,2026-02-13,19:48,Vijayawada,Cafe Corner,Desserts,1,415,60,50,Cash,4.0,42,14.5,Delivered,New
+FD00255,C0020,2026-05-17,13:46,Hyderabad,Spice Hub,Pizza,5,540,20,100,UPI,5.0,61,4.5,Delivered,Returning
+FD00256,C0067,2026-01-27,16:32,Chennai,Urban Kitchen,Biryani,1,243,40,30,Cash,5.0,48,9.3,Delivered,Returning
+FD00257,C0069,2026-03-29,17:22,Vijayawada,Biryani House,Desserts,4,189,30,20,Credit Card,3.5,61,1.3,Cancelled,New
+FD00258,C0064,2026-04-04,21:41,Visakhapatnam,South Flavours,Fast Food,3,1245,60,0,UPI,5.0,21,10.1,Delivered,New
+FD00259,C0060,2026-04-17,17:24,Visakhapatnam,Urban Kitchen,Chinese,2,570,20,30,Cash,5.0,21,10.3,Delivered,New
+FD00260,C0215,2026-01-27,18:46,Chennai,Food Factory,Pizza,1,367,50,20,Credit Card,4.0,68,8.3,Delivered,Returning
+FD00261,C0210,2026-03-17,12:02,Chennai,Cafe Corner,Biryani,4,827,30,0,UPI,5.0,20,13.7,Cancelled,Returning
+FD00262,C0077,2026-01-24,22:32,Visakhapatnam,Food Factory,Pizza,2,1085,40,30,Cash,3.0,21,12.4,Delivered,Returning
+FD00263,C0185,2026-06-23,15:27,Kakinada,Food Factory,Indian,1,169,30,100,Credit Card,4.0,37,13.5,Cancelled,Returning
+FD00264,C0048,2026-04-06,15:11,Visakhapatnam,South Flavours,Chinese,4,706,50,100,Cash,4.0,56,13.4,Delivered,New
+FD00265,C0068,2026-06-28,21:03,Vijayawada,Food Factory,Chinese,5,1138,60,100,Cash,3.5,54,6.3,Delivered,New
+FD00266,C0067,2026-05-04,17:07,Bengaluru,Cafe Corner,Indian,1,685,40,0,Credit Card,5.0,70,5.7,Cancelled,New
+FD00267,C0222,2026-06-19,21:15,Bengaluru,Pizza Point,Fast Food,4,454,60,75,UPI,3.0,56,14.1,Cancelled,Returning
+FD00268,C0254,2026-02-12,11:48,Bengaluru,Pizza Point,Biryani,3,719,20,75,Credit Card,4.5,56,6.3,Delivered,New
+FD00269,C0236,2026-04-24,22:36,Bengaluru,Food Factory,Desserts,4,1065,40,0,Cash,5.0,56,1.2,Delivered,Returning
+FD00270,C0019,2026-05-23,18:00,Visakhapatnam,Urban Kitchen,South Indian,5,573,50,30,Debit Card,3.0,67,4.1,Delivered,Returning
+FD00271,C0287,2026-06-08,19:30,Kakinada,Pizza Point,Fast Food,4,383,20,100,Credit Card,3.0,36,6.0,Delivered,Returning
+FD00272,C0055,2026-01-12,12:31,Vijayawada,South Flavours,Indian,3,1401,30,20,UPI,4.0,28,7.4,Delivered,Returning
+FD00273,C0056,2026-04-17,10:59,Kakinada,Food Factory,Desserts,4,1086,60,75,Credit Card,4.0,15,8.4,Delivered,Returning
+FD00274,C0300,2026-05-04,18:49,Vijayawada,Biryani House,Fast Food,2,362,50,100,Debit Card,4.5,71,6.4,Cancelled,New
+FD00275,C0141,2026-04-12,15:18,Bengaluru,Biryani House,Biryani,4,1383,60,30,Debit Card,5.0,62,14.1,Delivered,New
+FD00276,C0108,2026-06-09,21:18,Kakinada,Pizza Point,Fast Food,2,1481,30,75,Debit Card,5.0,22,11.7,Cancelled,Returning
+FD00277,C0299,2026-05-27,20:45,Bengaluru,Urban Kitchen,Desserts,4,176,60,0,UPI,4.0,24,1.7,Delivered,New
+FD00278,C0137,2026-02-11,14:43,Hyderabad,Biryani House,Desserts,1,754,30,75,UPI,4.0,67,7.3,Cancelled,New
+FD00279,C0288,2026-04-10,13:32,Kakinada,Urban Kitchen,Fast Food,1,931,50,50,Debit Card,4.5,18,1.2,Delivered,New
+FD00280,C0227,2026-02-27,20:45,Kakinada,Pizza Point,Desserts,5,1269,60,20,Credit Card,4.0,43,3.5,Delivered,New
+FD00281,C0089,2026-05-12,11:24,Visakhapatnam,South Flavours,Pizza,5,691,30,20,Debit Card,3.0,36,7.5,Delivered,New
+FD00282,C0079,2026-03-24,19:03,Kakinada,Urban Kitchen,Chinese,5,1276,40,0,Debit Card,4.5,29,14.4,Cancelled,New
+FD00283,C0259,2026-02-10,16:34,Chennai,South Flavours,Indian,3,603,30,100,Debit Card,4.0,38,5.1,Cancelled,Returning
+FD00284,C0288,2026-06-16,10:07,Kakinada,Pizza Point,Chinese,2,1465,60,75,Credit Card,3.0,58,13.4,Delivered,New
+FD00285,C0198,2026-03-07,18:46,Hyderabad,Spice Hub,South Indian,3,1203,60,50,Cash,3.0,33,13.6,Delivered,Returning
+FD00286,C0264,2026-01-22,11:10,Chennai,Spice Hub,Fast Food,1,581,30,100,Cash,3.0,28,8.5,Delivered,New
+FD00287,C0079,2026-01-07,17:45,Hyderabad,Spice Hub,Indian,1,261,30,30,UPI,4.5,67,4.2,Delivered,Returning
+FD00288,C0199,2026-04-26,20:25,Bengaluru,Pizza Point,Indian,4,392,60,0,UPI,5.0,52,1.6,Delivered,Returning
+FD00289,C0258,2026-01-28,14:50,Kakinada,Urban Kitchen,South Indian,1,726,50,50,Cash,5.0,16,7.6,Cancelled,New
+FD00290,C0070,2026-04-11,22:51,Chennai,Urban Kitchen,Fast Food,2,760,40,0,Credit Card,3.0,17,1.1,Cancelled,Returning
+FD00291,C0276,2026-05-21,11:19,Vijayawada,Pizza Point,Biryani,4,1472,60,20,Credit Card,3.5,29,9.6,Delivered,New
+FD00292,C0059,2026-02-16,20:51,Chennai,Spice Hub,Desserts,5,1094,60,0,Debit Card,5.0,19,4.5,Delivered,Returning
+FD00293,C0170,2026-04-02,12:42,Kakinada,Tasty Treats,Indian,3,1418,20,20,Debit Card,4.0,43,5.6,Delivered,New
+FD00294,C0290,2026-05-26,15:51,Hyderabad,South Flavours,Biryani,1,791,30,20,Cash,4.0,68,6.0,Delivered,Returning
+FD00295,C0237,2026-04-25,15:49,Hyderabad,Cafe Corner,South Indian,1,509,60,0,Debit Card,3.5,72,8.5,Delivered,New
+FD00296,C0039,2026-01-05,18:40,Visakhapatnam,South Flavours,Desserts,5,585,20,75,Debit Card,4.5,72,15.0,Delivered,New
+FD00297,C0188,2026-04-11,13:57,Chennai,Urban Kitchen,Biryani,4,1176,60,0,Cash,4.0,47,1.1,Delivered,New
+FD00298,C0264,2026-02-05,17:10,Vijayawada,Biryani House,Fast Food,4,884,20,20,Cash,3.5,19,4.7,Delivered,New
+FD00299,C0106,2026-05-13,22:23,Bengaluru,Cafe Corner,Chinese,1,231,40,0,Debit Card,5.0,31,9.1,Cancelled,New
+FD00300,C0193,2026-06-17,16:23,Chennai,Food Factory,South Indian,3,920,30,75,Cash,4.0,67,13.1,Delivered,Returning
+FD00301,C0004,2026-05-09,12:28,Vijayawada,Tasty Treats,Indian,5,1467,40,20,Credit Card,3.5,25,6.1,Delivered,New
+FD00302,C0213,2026-03-26,21:07,Bengaluru,Cafe Corner,Chinese,2,1359,30,100,Cash,3.0,30,1.6,Cancelled,New
+FD00303,C0069,2026-06-11,18:02,Chennai,Biryani House,Indian,2,678,30,75,Cash,4.5,51,9.9,Delivered,New
+FD00304,C0111,2026-04-25,19:30,Bengaluru,Biryani House,Biryani,4,1380,30,75,Credit Card,4.5,57,8.2,Delivered,Returning
+FD00305,C0233,2026-06-02,19:04,Vijayawada,South Flavours,Chinese,2,372,20,20,Cash,3.5,53,2.3,Delivered,New
+FD00306,C0273,2026-05-09,22:07,Visakhapatnam,Cafe Corner,Fast Food,2,1385,60,0,Cash,4.5,41,6.2,Delivered,Returning
+FD00307,C0118,2026-05-04,22:49,Bengaluru,Pizza Point,South Indian,5,350,50,20,Debit Card,4.0,64,4.3,Delivered,Returning
+FD00308,C0279,2026-04-15,14:12,Visakhapatnam,Spice Hub,South Indian,5,391,60,0,Cash,5.0,28,10.6,Delivered,Returning
+FD00309,C0186,2026-01-28,12:27,Kakinada,Urban Kitchen,Pizza,5,1017,60,30,Debit Card,5.0,40,11.6,Delivered,Returning
+FD00310,C0092,2026-04-05,18:35,Bengaluru,Urban Kitchen,Pizza,5,855,50,100,Credit Card,5.0,22,11.5,Delivered,New
+FD00311,C0052,2026-02-24,18:25,Hyderabad,Spice Hub,Biryani,4,1452,20,0,Credit Card,4.0,74,9.4,Delivered,New
+FD00312,C0135,2026-02-26,15:05,Chennai,Spice Hub,Fast Food,4,970,60,100,Debit Card,5.0,53,1.8,Delivered,Returning
+FD00313,C0225,2026-01-03,13:54,Kakinada,Urban Kitchen,Biryani,1,1377,60,75,Credit Card,4.5,25,10.4,Delivered,New
+FD00314,C0001,2026-02-10,11:17,Bengaluru,Pizza Point,Fast Food,4,980,60,20,UPI,5.0,60,2.0,Delivered,Returning
+FD00315,C0287,2026-05-30,15:22,Hyderabad,Tasty Treats,South Indian,2,1081,50,75,UPI,4.0,26,6.7,Delivered,New
+FD00316,C0258,2026-03-17,15:07,Chennai,Urban Kitchen,South Indian,5,662,50,50,Cash,3.5,63,5.8,Delivered,Returning
+FD00317,C0015,2026-05-04,11:16,Visakhapatnam,South Flavours,Fast Food,2,620,40,50,Debit Card,4.5,49,1.1,Delivered,New
+FD00318,C0148,2026-01-24,16:43,Kakinada,Pizza Point,Indian,5,515,50,30,Debit Card,3.5,72,9.0,Delivered,New
+FD00319,C0256,2026-02-21,13:47,Vijayawada,Urban Kitchen,Biryani,2,565,30,75,Debit Card,3.5,64,2.5,Delivered,Returning
+FD00320,C0004,2026-05-19,10:54,Bengaluru,Pizza Point,South Indian,3,1158,60,30,Cash,3.5,63,13.8,Delivered,Returning
+FD00321,C0114,2026-05-28,12:03,Chennai,South Flavours,Chinese,5,216,60,30,Cash,5.0,64,3.4,Delivered,Returning
+FD00322,C0162,2026-06-26,10:00,Kakinada,Tasty Treats,Chinese,5,356,40,30,Debit Card,3.5,50,4.7,Delivered,Returning
+FD00323,C0176,2026-04-04,12:31,Bengaluru,Tasty Treats,Chinese,3,897,50,30,Cash,3.5,51,2.8,Cancelled,New
+FD00324,C0052,2026-03-11,22:15,Chennai,South Flavours,Desserts,4,551,30,100,Credit Card,4.0,66,1.1,Delivered,Returning
+FD00325,C0069,2026-06-11,18:34,Kakinada,Pizza Point,Desserts,4,764,40,75,UPI,4.0,21,10.7,Delivered,New
+FD00326,C0131,2026-05-02,20:06,Bengaluru,Pizza Point,Pizza,3,887,60,75,Debit Card,4.0,16,6.8,Delivered,New
+FD00327,C0296,2026-05-28,20:41,Chennai,Biryani House,Desserts,3,877,40,100,Cash,5.0,43,13.5,Delivered,Returning
+FD00328,C0238,2026-06-11,12:55,Vijayawada,Pizza Point,Chinese,5,1320,50,0,UPI,3.5,36,4.2,Delivered,Returning
+FD00329,C0137,2026-06-04,20:25,Hyderabad,Cafe Corner,Desserts,3,1352,60,50,Cash,3.5,26,13.0,Delivered,New
+FD00330,C0129,2026-06-29,21:05,Vijayawada,Biryani House,Chinese,1,345,20,50,UPI,3.0,64,6.6,Delivered,New
+FD00331,C0135,2026-06-08,12:05,Kakinada,South Flavours,Pizza,2,656,40,50,Credit Card,3.5,48,12.7,Delivered,New
+FD00332,C0183,2026-03-25,17:29,Chennai,Urban Kitchen,South Indian,4,426,60,20,Cash,5.0,62,9.9,Cancelled,Returning
+FD00333,C0269,2026-06-13,20:34,Hyderabad,Pizza Point,Chinese,5,615,20,50,Debit Card,4.0,41,4.6,Delivered,New
+FD00334,C0001,2026-05-14,22:54,Vijayawada,Pizza Point,Pizza,4,1245,20,100,Cash,4.0,34,1.1,Delivered,Returning
+FD00335,C0119,2026-01-02,18:23,Vijayawada,South Flavours,South Indian,4,958,30,20,Cash,4.0,29,4.7,Delivered,New
+FD00336,C0265,2026-06-06,22:44,Kakinada,Urban Kitchen,Pizza,5,700,50,20,UPI,3.5,23,5.1,Delivered,Returning
+FD00337,C0140,2026-06-29,19:31,Vijayawada,Pizza Point,Indian,2,251,60,0,Credit Card,3.0,33,4.8,Delivered,New
+FD00338,C0120,2026-01-24,12:00,Bengaluru,Tasty Treats,Pizza,4,788,50,30,Cash,5.0,65,1.4,Delivered,New
+FD00339,C0029,2026-03-10,22:25,Visakhapatnam,Cafe Corner,Biryani,2,662,50,0,UPI,5.0,30,6.4,Delivered,New
+FD00340,C0018,2026-02-20,17:47,Visakhapatnam,Tasty Treats,Chinese,4,789,40,20,UPI,5.0,74,8.7,Delivered,Returning
+FD00341,C0247,2026-06-13,14:12,Hyderabad,Spice Hub,Desserts,2,381,30,100,Cash,4.0,15,3.3,Delivered,New
+FD00342,C0203,2026-03-04,10:02,Chennai,Cafe Corner,Fast Food,5,467,40,0,Credit Card,3.5,46,2.3,Cancelled,Returning
+FD00343,C0031,2026-01-16,15:41,Vijayawada,Food Factory,Biryani,4,626,40,75,Debit Card,4.0,61,3.7,Delivered,Returning
+FD00344,C0069,2026-03-06,10:31,Kakinada,Cafe Corner,South Indian,3,1261,50,20,Credit Card,4.5,37,5.5,Delivered,Returning
+FD00345,C0284,2026-02-11,11:33,Vijayawada,Cafe Corner,Pizza,3,1259,40,50,UPI,5.0,47,6.3,Delivered,New
+FD00346,C0187,2026-06-08,13:20,Kakinada,Food Factory,Fast Food,5,943,30,75,Cash,4.5,24,9.6,Delivered,Returning
+FD00347,C0165,2026-01-29,11:33,Kakinada,Food Factory,Indian,2,515,20,20,UPI,4.0,27,2.4,Cancelled,Returning
+FD00348,C0251,2026-05-15,19:44,Chennai,Urban Kitchen,Indian,3,602,60,100,UPI,3.0,74,13.9,Delivered,New
+FD00349,C0240,2026-06-13,10:23,Chennai,South Flavours,Desserts,3,269,60,30,UPI,5.0,19,12.7,Delivered,New
+FD00350,C0266,2026-01-25,11:46,Vijayawada,South Flavours,Biryani,2,1227,30,75,Credit Card,4.5,62,8.8,Delivered,Returning
+FD00351,C0235,2026-06-29,20:27,Visakhapatnam,Biryani House,Desserts,2,1276,50,75,Debit Card,5.0,25,8.5,Cancelled,Returning
+FD00352,C0181,2026-03-22,18:20,Hyderabad,South Flavours,Desserts,4,812,60,20,Credit Card,4.0,64,8.7,Delivered,Returning
+FD00353,C0232,2026-04-25,16:00,Kakinada,Spice Hub,Pizza,5,183,60,20,Debit Card,3.0,34,14.8,Delivered,Returning
+FD00354,C0012,2026-06-26,14:58,Chennai,Biryani House,Indian,1,1092,40,20,Credit Card,4.0,38,13.5,Delivered,New
+FD00355,C0132,2026-03-18,11:36,Bengaluru,Tasty Treats,Fast Food,1,814,50,20,Cash,5.0,59,9.1,Delivered,Returning
+FD00356,C0020,2026-05-28,16:05,Visakhapatnam,Pizza Point,Pizza,4,1003,20,20,UPI,5.0,64,9.9,Delivered,Returning
+FD00357,C0269,2026-01-11,15:34,Chennai,Biryani House,Pizza,5,602,30,0,Cash,4.0,63,9.3,Cancelled,New
+FD00358,C0114,2026-04-21,14:50,Bengaluru,Biryani House,Biryani,3,319,50,75,UPI,4.5,40,4.7,Delivered,Returning
+FD00359,C0067,2026-02-04,17:35,Vijayawada,Cafe Corner,Chinese,5,551,60,75,Credit Card,3.5,19,4.7,Delivered,Returning
+FD00360,C0295,2026-01-23,11:42,Bengaluru,South Flavours,Pizza,3,540,40,30,UPI,4.0,25,14.8,Cancelled,Returning
+FD00361,C0075,2026-04-23,10:59,Vijayawada,Tasty Treats,Fast Food,3,469,20,0,UPI,3.5,75,9.7,Delivered,Returning
+FD00362,C0008,2026-03-29,21:51,Visakhapatnam,Urban Kitchen,Chinese,4,196,40,20,Credit Card,3.5,49,8.3,Delivered,Returning
+FD00363,C0073,2026-06-27,21:42,Visakhapatnam,South Flavours,South Indian,5,239,40,20,UPI,4.0,27,12.0,Cancelled,Returning
+FD00364,C0028,2026-04-30,20:00,Visakhapatnam,South Flavours,Fast Food,3,887,20,0,Debit Card,5.0,39,4.2,Delivered,New
+FD00365,C0162,2026-05-05,19:34,Visakhapatnam,Biryani House,Biryani,5,1087,60,100,UPI,3.0,30,13.9,Delivered,Returning
+FD00366,C0251,2026-04-11,21:10,Visakhapatnam,Pizza Point,Fast Food,3,877,40,20,Debit Card,3.0,55,4.6,Delivered,New
+FD00367,C0285,2026-03-13,13:09,Hyderabad,South Flavours,Fast Food,2,329,50,75,Credit Card,4.0,30,9.0,Delivered,Returning
+FD00368,C0169,2026-04-25,18:08,Vijayawada,Biryani House,South Indian,5,564,30,30,Credit Card,4.0,73,14.7,Delivered,New
+FD00369,C0163,2026-01-18,18:34,Kakinada,Food Factory,Biryani,3,448,20,30,Cash,4.0,34,7.2,Delivered,New
+FD00370,C0097,2026-01-28,12:11,Visakhapatnam,Urban Kitchen,South Indian,5,1404,30,75,Credit Card,3.5,58,1.4,Delivered,Returning
+FD00371,C0069,2026-05-09,19:30,Kakinada,Pizza Point,Biryani,4,1156,50,20,Credit Card,3.5,29,1.5,Delivered,Returning
+FD00372,C0212,2026-02-26,21:42,Vijayawada,Tasty Treats,Indian,2,1049,60,50,Debit Card,4.0,71,4.5,Delivered,New
+FD00373,C0195,2026-03-22,16:39,Kakinada,Spice Hub,South Indian,1,1074,50,0,Credit Card,4.5,49,6.5,Delivered,Returning
+FD00374,C0265,2026-06-11,10:12,Hyderabad,Cafe Corner,Chinese,3,735,50,20,Cash,4.0,54,13.9,Cancelled,New
+FD00375,C0238,2026-06-15,17:05,Kakinada,Food Factory,Biryani,5,1269,30,50,Cash,4.0,43,1.3,Delivered,New
+FD00376,C0233,2026-01-24,14:20,Kakinada,Biryani House,Fast Food,1,336,20,100,Cash,5.0,38,2.2,Delivered,New
+FD00377,C0194,2026-05-21,16:02,Vijayawada,Pizza Point,South Indian,2,482,30,20,UPI,4.0,34,5.3,Delivered,Returning
+FD00378,C0093,2026-01-31,12:12,Visakhapatnam,Urban Kitchen,Indian,4,1169,50,75,UPI,4.5,71,7.9,Delivered,Returning
+FD00379,C0233,2026-04-15,17:05,Chennai,Spice Hub,Biryani,5,719,60,100,Credit Card,3.0,26,3.1,Delivered,New
+FD00380,C0075,2026-01-09,20:36,Chennai,Urban Kitchen,Pizza,1,250,20,50,Credit Card,3.5,58,5.0,Cancelled,New
+FD00381,C0234,2026-05-29,15:59,Visakhapatnam,Food Factory,Desserts,3,811,40,50,UPI,4.0,68,8.7,Delivered,Returning
+FD00382,C0069,2026-02-01,21:55,Hyderabad,Pizza Point,South Indian,4,1224,30,100,Credit Card,4.5,18,2.5,Cancelled,New
+FD00383,C0248,2026-06-26,19:59,Kakinada,Urban Kitchen,Chinese,5,798,40,75,Debit Card,3.5,54,8.9,Cancelled,Returning
+FD00384,C0253,2026-02-16,19:14,Kakinada,Urban Kitchen,Biryani,1,392,20,50,UPI,5.0,69,3.9,Cancelled,Returning
+FD00385,C0212,2026-01-12,15:22,Chennai,Tasty Treats,Indian,2,726,40,0,Debit Card,4.0,47,8.7,Delivered,New
+FD00386,C0171,2026-03-29,16:46,Chennai,Spice Hub,Desserts,2,547,40,30,Cash,4.0,66,1.5,Delivered,Returning
+FD00387,C0080,2026-06-10,17:57,Chennai,Pizza Point,Chinese,4,264,60,30,Debit Card,4.5,49,1.3,Cancelled,Returning
+FD00388,C0182,2026-01-17,12:17,Visakhapatnam,Pizza Point,Chinese,5,489,60,75,Cash,3.5,53,2.6,Delivered,Returning
+FD00389,C0017,2026-03-11,16:05,Bengaluru,Tasty Treats,Pizza,4,769,30,75,Debit Card,3.5,22,6.2,Delivered,New
+FD00390,C0048,2026-04-24,18:01,Bengaluru,Biryani House,Biryani,3,1140,60,30,Debit Card,3.5,64,13.2,Cancelled,New
+FD00391,C0106,2026-01-10,17:24,Kakinada,Food Factory,Indian,3,240,60,0,Debit Card,4.0,71,1.6,Cancelled,Returning
+FD00392,C0012,2026-05-28,22:19,Kakinada,Tasty Treats,Pizza,2,544,40,30,Debit Card,4.0,57,2.6,Delivered,New
+FD00393,C0141,2026-01-30,10:39,Chennai,Food Factory,Biryani,5,867,60,30,Debit Card,3.5,75,10.9,Delivered,New
+FD00394,C0088,2026-01-19,14:39,Hyderabad,Cafe Corner,Indian,2,209,50,100,UPI,3.0,39,1.8,Delivered,Returning
+FD00395,C0092,2026-06-02,19:40,Kakinada,Cafe Corner,South Indian,3,789,40,20,UPI,4.0,51,2.8,Delivered,New
+FD00396,C0234,2026-03-21,20:41,Kakinada,Cafe Corner,Chinese,2,608,30,75,Debit Card,4.0,40,3.6,Delivered,Returning
+FD00397,C0233,2026-05-05,10:04,Bengaluru,Food Factory,Pizza,4,1094,30,30,Debit Card,4.5,51,2.8,Delivered,Returning
+FD00398,C0055,2026-03-25,18:41,Visakhapatnam,Urban Kitchen,South Indian,4,970,60,50,Credit Card,4.5,30,8.7,Delivered,Returning
+FD00399,C0034,2026-03-29,13:52,Kakinada,South Flavours,Desserts,4,1311,40,75,Credit Card,3.5,57,10.4,Cancelled,Returning
+FD00400,C0059,2026-06-01,19:29,Hyderabad,Food Factory,Desserts,4,510,40,50,UPI,4.5,21,10.6,Cancelled,Returning
+FD00401,C0168,2026-05-07,20:42,Visakhapatnam,Food Factory,Biryani,2,1339,20,20,Credit Card,4.0,49,5.1,Cancelled,Returning
+FD00402,C0101,2026-02-22,20:56,Hyderabad,Urban Kitchen,South Indian,3,1040,40,0,UPI,4.5,47,6.7,Delivered,Returning
+FD00403,C0032,2026-04-05,18:03,Visakhapatnam,Pizza Point,Indian,3,213,30,50,Cash,5.0,35,11.0,Delivered,Returning
+FD00404,C0223,2026-05-20,13:42,Vijayawada,Cafe Corner,Biryani,2,1287,50,30,Cash,3.5,33,15.0,Delivered,New
+FD00405,C0006,2026-01-19,20:01,Vijayawada,Cafe Corner,Fast Food,4,428,20,20,Cash,4.0,72,12.0,Cancelled,Returning
+FD00406,C0093,2026-04-27,18:27,Chennai,Cafe Corner,Chinese,3,612,30,50,UPI,4.5,46,12.9,Delivered,Returning
+FD00407,C0211,2026-05-20,19:23,Visakhapatnam,Spice Hub,South Indian,4,904,20,75,Cash,5.0,20,3.0,Cancelled,Returning
+FD00408,C0239,2026-05-13,11:33,Chennai,Food Factory,Biryani,4,1441,20,100,Debit Card,4.5,18,13.7,Cancelled,New
+FD00409,C0241,2026-04-27,18:57,Bengaluru,Pizza Point,Chinese,3,753,40,20,UPI,5.0,74,9.4,Delivered,Returning
+FD00410,C0032,2026-06-11,17:37,Vijayawada,Spice Hub,Fast Food,3,1428,20,30,Cash,3.0,23,8.1,Delivered,Returning
+FD00411,C0068,2026-06-07,14:17,Hyderabad,Spice Hub,Fast Food,1,1386,30,75,Credit Card,5.0,43,6.2,Delivered,Returning
+FD00412,C0121,2026-05-05,12:51,Chennai,Spice Hub,Pizza,1,447,60,20,Cash,4.0,64,6.4,Delivered,New
+FD00413,C0108,2026-05-28,21:53,Hyderabad,Spice Hub,Fast Food,3,387,20,20,Cash,4.0,45,5.2,Cancelled,New
+FD00414,C0195,2026-06-24,21:24,Bengaluru,Urban Kitchen,Biryani,5,1040,20,30,Cash,4.0,58,5.4,Cancelled,New
+FD00415,C0050,2026-05-17,20:22,Bengaluru,Urban Kitchen,Pizza,3,696,20,30,Cash,4.0,64,10.5,Delivered,New
+FD00416,C0267,2026-03-28,20:44,Vijayawada,Pizza Point,South Indian,1,167,20,0,Cash,3.0,48,2.5,Delivered,Returning
+FD00417,C0113,2026-03-14,14:12,Visakhapatnam,Spice Hub,South Indian,1,266,60,100,Credit Card,4.5,55,2.7,Delivered,New
+FD00418,C0067,2026-04-07,20:48,Kakinada,Biryani House,Indian,2,668,40,50,UPI,5.0,44,13.9,Delivered,Returning
+FD00419,C0166,2026-03-07,12:49,Visakhapatnam,Urban Kitchen,Desserts,1,933,50,30,UPI,4.0,67,4.7,Delivered,New
+FD00420,C0252,2026-02-21,19:25,Vijayawada,Cafe Corner,Indian,2,1257,50,20,UPI,4.0,60,4.6,Delivered,New
+FD00421,C0037,2026-05-27,21:16,Bengaluru,Spice Hub,Chinese,2,1487,20,0,Cash,4.0,24,10.8,Delivered,New
+FD00422,C0264,2026-05-06,17:27,Bengaluru,Food Factory,South Indian,2,156,50,100,Cash,3.0,51,8.5,Delivered,Returning
+FD00423,C0156,2026-04-13,10:40,Kakinada,Food Factory,Pizza,5,846,20,50,Debit Card,5.0,27,3.5,Delivered,Returning
+FD00424,C0098,2026-03-18,21:24,Visakhapatnam,Pizza Point,Chinese,1,1445,50,100,Credit Card,3.5,17,3.7,Cancelled,New
+FD00425,C0251,2026-04-10,11:50,Chennai,Urban Kitchen,Chinese,5,1070,20,0,Debit Card,3.0,36,12.0,Delivered,Returning
+FD00426,C0061,2026-02-24,22:41,Kakinada,Cafe Corner,Fast Food,5,455,60,20,UPI,3.0,62,3.0,Delivered,Returning
+FD00427,C0024,2026-03-04,21:41,Vijayawada,Spice Hub,Biryani,1,779,20,50,Credit Card,4.5,19,12.4,Delivered,New
+FD00428,C0255,2026-06-02,22:39,Vijayawada,Food Factory,Desserts,2,1022,40,100,Cash,4.0,22,14.7,Cancelled,New
+FD00429,C0165,2026-02-24,22:02,Chennai,Biryani House,Pizza,1,397,40,20,Cash,3.5,59,6.2,Delivered,Returning
+FD00430,C0125,2026-05-29,10:08,Visakhapatnam,South Flavours,Desserts,2,182,50,0,UPI,3.0,26,14.0,Cancelled,Returning
+FD00431,C0214,2026-06-27,22:50,Bengaluru,Biryani House,Biryani,2,1460,40,75,Cash,4.0,30,14.1,Cancelled,New
+FD00432,C0093,2026-05-08,19:05,Kakinada,Urban Kitchen,Pizza,4,159,60,20,Credit Card,3.0,48,14.7,Cancelled,Returning
+FD00433,C0277,2026-05-10,13:29,Kakinada,Tasty Treats,Pizza,1,546,20,20,Cash,4.0,26,3.2,Delivered,New
+FD00434,C0187,2026-03-14,13:27,Hyderabad,Pizza Point,South Indian,4,238,20,100,UPI,4.5,26,3.2,Delivered,Returning
+FD00435,C0264,2026-01-30,11:57,Vijayawada,Cafe Corner,South Indian,5,817,50,20,Debit Card,3.5,64,2.5,Delivered,New
+FD00436,C0122,2026-04-16,13:24,Vijayawada,Food Factory,Chinese,5,1142,20,50,Credit Card,3.5,74,9.5,Delivered,Returning
+FD00437,C0192,2026-02-04,17:46,Vijayawada,Pizza Point,Pizza,2,837,30,0,UPI,4.0,23,2.6,Delivered,Returning
+FD00438,C0215,2026-02-13,22:21,Vijayawada,Urban Kitchen,South Indian,2,1456,60,20,Credit Card,3.0,41,13.0,Delivered,New
+FD00439,C0243,2026-04-29,14:00,Kakinada,South Flavours,Fast Food,2,657,40,50,Credit Card,4.5,75,3.1,Cancelled,New
+FD00440,C0214,2026-01-12,10:30,Kakinada,Spice Hub,Chinese,5,957,50,100,UPI,4.0,46,4.4,Cancelled,New
+FD00441,C0209,2026-02-25,12:22,Hyderabad,Tasty Treats,Fast Food,1,182,50,100,Debit Card,3.5,60,7.4,Cancelled,New
+FD00442,C0233,2026-04-29,22:08,Kakinada,South Flavours,Biryani,3,1433,50,100,UPI,5.0,19,6.4,Delivered,New
+FD00443,C0152,2026-04-20,22:17,Kakinada,Tasty Treats,Desserts,1,1420,40,100,UPI,4.5,75,13.7,Delivered,New
+FD00444,C0057,2026-04-09,15:29,Chennai,Spice Hub,Pizza,3,508,60,100,UPI,4.5,60,11.8,Delivered,Returning
+FD00445,C0123,2026-05-19,11:41,Bengaluru,Tasty Treats,Desserts,2,806,40,30,Cash,4.0,18,1.9,Delivered,Returning
+FD00446,C0249,2026-05-09,18:53,Visakhapatnam,Cafe Corner,Fast Food,5,1241,40,50,Debit Card,5.0,75,10.7,Delivered,New
+FD00447,C0235,2026-01-23,11:25,Vijayawada,Urban Kitchen,Indian,1,487,40,0,Credit Card,4.0,24,13.2,Cancelled,New
+FD00448,C0151,2026-04-17,20:34,Vijayawada,Cafe Corner,Pizza,4,1059,20,30,Credit Card,3.0,16,13.2,Delivered,Returning
+FD00449,C0211,2026-05-29,15:41,Kakinada,Pizza Point,Chinese,5,1235,60,50,Cash,4.0,51,2.8,Delivered,New
+FD00450,C0134,2026-02-28,17:23,Hyderabad,Spice Hub,Biryani,3,732,50,20,Credit Card,5.0,49,5.0,Delivered,New
+FD00451,C0083,2026-03-02,11:02,Hyderabad,Biryani House,Chinese,3,907,30,20,UPI,5.0,35,14.7,Delivered,Returning
+FD00452,C0230,2026-05-19,12:34,Hyderabad,Food Factory,Indian,4,1172,30,50,Debit Card,3.5,15,14.6,Cancelled,Returning
+FD00453,C0152,2026-05-02,14:48,Chennai,Biryani House,Desserts,5,1055,40,100,UPI,5.0,45,13.6,Delivered,New
+FD00454,C0158,2026-01-07,16:39,Vijayawada,Cafe Corner,Pizza,1,818,20,75,Credit Card,4.5,48,4.1,Delivered,New
+FD00455,C0012,2026-01-22,18:54,Bengaluru,Food Factory,South Indian,4,548,50,30,UPI,5.0,38,6.6,Delivered,Returning
+FD00456,C0198,2026-04-06,10:18,Hyderabad,Pizza Point,Pizza,4,1298,20,20,Cash,5.0,41,12.3,Delivered,New
+FD00457,C0218,2026-04-17,12:53,Chennai,Food Factory,Biryani,2,771,50,75,Debit Card,3.0,74,14.4,Delivered,New
+FD00458,C0004,2026-04-15,20:58,Hyderabad,South Flavours,Biryani,5,1096,60,20,Credit Card,3.5,68,6.3,Cancelled,Returning
+FD00459,C0022,2026-03-19,19:19,Bengaluru,Cafe Corner,Biryani,1,155,30,30,Debit Card,5.0,68,9.9,Delivered,Returning
+FD00460,C0214,2026-02-15,17:58,Kakinada,Tasty Treats,Indian,1,717,50,0,Debit Card,4.5,45,8.9,Delivered,Returning
+FD00461,C0062,2026-04-06,18:46,Chennai,Spice Hub,Desserts,3,483,60,0,Credit Card,4.0,44,13.3,Delivered,Returning
+FD00462,C0084,2026-01-14,14:23,Bengaluru,Pizza Point,Indian,3,747,60,100,UPI,4.5,27,11.7,Delivered,New
+FD00463,C0086,2026-05-20,15:55,Hyderabad,Urban Kitchen,Pizza,3,346,60,75,Debit Card,3.5,15,2.9,Delivered,Returning
+FD00464,C0249,2026-04-16,15:58,Vijayawada,Food Factory,Biryani,2,1180,30,20,UPI,4.0,44,13.8,Delivered,New
+FD00465,C0009,2026-05-03,15:19,Kakinada,Pizza Point,Biryani,4,1373,60,30,Credit Card,5.0,34,1.4,Delivered,New
+FD00466,C0066,2026-06-27,12:44,Vijayawada,Urban Kitchen,Biryani,2,416,20,50,UPI,3.0,16,11.8,Delivered,New
+FD00467,C0101,2026-01-28,10:50,Kakinada,Spice Hub,Chinese,1,668,20,0,Debit Card,5.0,15,11.6,Delivered,New
+FD00468,C0103,2026-02-17,20:22,Visakhapatnam,Food Factory,Biryani,3,1337,40,30,Credit Card,4.5,64,11.2,Delivered,New
+FD00469,C0051,2026-05-29,22:00,Chennai,Tasty Treats,Fast Food,2,727,30,75,UPI,5.0,21,13.9,Cancelled,Returning
+FD00470,C0188,2026-06-28,19:11,Bengaluru,Food Factory,Biryani,3,927,50,20,Credit Card,4.0,22,11.7,Delivered,New
+FD00471,C0239,2026-01-29,18:08,Bengaluru,Pizza Point,Fast Food,3,1291,20,0,Debit Card,4.0,22,6.4,Delivered,Returning
+FD00472,C0228,2026-02-27,18:26,Hyderabad,South Flavours,Biryani,1,1124,40,20,UPI,5.0,46,10.4,Delivered,Returning
+FD00473,C0268,2026-06-18,20:05,Visakhapatnam,Biryani House,Chinese,4,1359,20,100,Credit Card,3.0,38,14.7,Delivered,New
+FD00474,C0207,2026-02-01,13:53,Bengaluru,Cafe Corner,Pizza,5,1365,40,100,Cash,4.0,45,10.3,Delivered,Returning
+FD00475,C0262,2026-03-13,12:49,Bengaluru,Food Factory,Indian,3,1152,50,20,Credit Card,3.0,21,11.3,Delivered,Returning
+FD00476,C0014,2026-02-15,16:38,Kakinada,Pizza Point,Biryani,3,1423,60,0,UPI,5.0,63,8.3,Delivered,Returning
+FD00477,C0104,2026-03-17,20:31,Bengaluru,Urban Kitchen,South Indian,3,1257,60,0,UPI,4.0,71,13.8,Delivered,Returning
+FD00478,C0162,2026-04-07,17:29,Visakhapatnam,Spice Hub,Biryani,5,1500,40,100,Credit Card,4.0,42,2.9,Delivered,Returning
+FD00479,C0057,2026-05-26,20:31,Kakinada,Cafe Corner,Chinese,5,470,60,0,Cash,4.0,46,9.3,Delivered,Returning
+FD00480,C0146,2026-03-24,10:01,Chennai,Spice Hub,Biryani,3,864,60,0,Debit Card,4.0,21,7.0,Delivered,Returning
+FD00481,C0180,2026-01-15,20:15,Vijayawada,Tasty Treats,Fast Food,3,1363,20,100,UPI,4.0,22,5.7,Delivered,Returning
+FD00482,C0020,2026-04-28,20:55,Bengaluru,South Flavours,Pizza,1,1111,60,0,Debit Card,4.0,51,6.5,Cancelled,New
+FD00483,C0251,2026-01-26,21:43,Vijayawada,Pizza Point,Chinese,5,845,30,75,Debit Card,4.0,42,3.8,Delivered,New
+FD00484,C0148,2026-03-09,10:19,Chennai,South Flavours,Desserts,2,1429,20,100,UPI,4.5,36,4.8,Cancelled,Returning
+FD00485,C0219,2026-02-23,15:50,Visakhapatnam,Urban Kitchen,South Indian,3,1036,60,30,Credit Card,4.0,40,4.5,Cancelled,Returning
+FD00486,C0281,2026-02-16,10:40,Kakinada,Biryani House,South Indian,4,586,50,30,Cash,4.5,61,9.8,Cancelled,New
+FD00487,C0187,2026-04-29,12:15,Vijayawada,Urban Kitchen,Desserts,4,990,40,0,Credit Card,4.0,32,12.5,Delivered,Returning
+FD00488,C0121,2026-04-14,13:07,Vijayawada,Tasty Treats,Indian,2,785,50,50,Cash,4.0,56,13.7,Delivered,New
+FD00489,C0140,2026-02-04,10:16,Hyderabad,Biryani House,Fast Food,1,1145,20,0,UPI,4.0,53,5.2,Delivered,Returning
+FD00490,C0187,2026-06-21,20:56,Visakhapatnam,South Flavours,Desserts,2,633,20,75,UPI,4.5,57,12.6,Cancelled,Returning
+FD00491,C0255,2026-01-24,13:38,Visakhapatnam,Pizza Point,Pizza,5,948,30,50,Credit Card,3.5,21,3.5,Delivered,Returning
+FD00492,C0210,2026-03-07,19:03,Bengaluru,Pizza Point,Fast Food,1,798,60,50,Cash,5.0,30,14.5,Delivered,Returning
+FD00493,C0244,2026-04-05,14:01,Kakinada,Spice Hub,Desserts,1,640,40,75,Cash,4.0,55,14.4,Delivered,New
+FD00494,C0274,2026-03-02,17:24,Visakhapatnam,South Flavours,Pizza,3,334,30,30,Credit Card,3.5,73,7.1,Delivered,Returning
+FD00495,C0018,2026-03-12,11:52,Bengaluru,Cafe Corner,Fast Food,4,831,50,0,Credit Card,5.0,31,8.1,Delivered,Returning
+FD00496,C0281,2026-03-25,17:44,Visakhapatnam,Spice Hub,Fast Food,2,1440,50,100,Credit Card,3.0,40,3.8,Delivered,Returning
+FD00497,C0295,2026-01-22,11:10,Vijayawada,Biryani House,Desserts,5,990,40,50,Cash,5.0,23,4.6,Cancelled,Returning
+FD00498,C0145,2026-02-20,11:26,Hyderabad,Biryani House,Chinese,4,1318,30,0,UPI,4.5,56,9.6,Delivered,New
+FD00499,C0237,2026-02-20,14:44,Vijayawada,Spice Hub,Chinese,5,1028,60,30,Credit Card,3.0,38,3.4,Cancelled,New
+FD00500,C0008,2026-05-15,16:49,Bengaluru,Cafe Corner,Indian,2,566,30,30,Debit Card,5.0,46,6.3,Delivered,New
+FD00501,C0111,2026-03-14,21:43,Vijayawada,South Flavours,Biryani,4,448,20,30,Debit Card,3.5,54,7.3,Delivered,Returning
+FD00502,C0299,2026-06-25,20:29,Visakhapatnam,Spice Hub,Chinese,2,812,50,100,Credit Card,5.0,39,10.9,Cancelled,Returning
+FD00503,C0038,2026-01-25,18:03,Visakhapatnam,Pizza Point,Biryani,4,875,60,100,UPI,3.0,31,8.1,Delivered,Returning
+FD00504,C0203,2026-06-21,15:08,Chennai,Spice Hub,South Indian,2,683,30,75,Cash,4.0,71,7.6,Delivered,Returning
+FD00505,C0272,2026-04-21,12:16,Visakhapatnam,Pizza Point,Indian,2,1172,40,100,Debit Card,4.0,33,13.6,Delivered,Returning
+FD00506,C0265,2026-03-22,16:57,Vijayawada,Pizza Point,Fast Food,4,459,60,100,Cash,3.0,27,3.1,Delivered,New
+FD00507,C0019,2026-05-01,14:10,Kakinada,Cafe Corner,Chinese,1,1163,20,50,Debit Card,5.0,50,7.8,Delivered,New
+FD00508,C0076,2026-02-01,15:05,Vijayawada,Urban Kitchen,Biryani,2,1191,40,75,Credit Card,4.5,15,8.4,Cancelled,New
+FD00509,C0214,2026-01-20,13:49,Bengaluru,Food Factory,Pizza,1,732,20,50,Debit Card,4.5,74,14.3,Delivered,New
+FD00510,C0015,2026-01-21,17:53,Kakinada,Cafe Corner,Chinese,3,1366,20,30,UPI,5.0,54,14.3,Delivered,New
+FD00511,C0109,2026-01-13,22:41,Hyderabad,Pizza Point,Desserts,1,294,60,75,Cash,3.0,40,4.6,Delivered,Returning
+FD00512,C0046,2026-01-06,13:10,Bengaluru,South Flavours,Pizza,2,396,40,50,Cash,5.0,66,13.9,Cancelled,New
+FD00513,C0184,2026-06-20,11:53,Hyderabad,Tasty Treats,Chinese,4,944,50,30,Cash,3.0,63,6.9,Delivered,New
+FD00514,C0223,2026-06-11,16:05,Visakhapatnam,Pizza Point,Chinese,2,1476,30,50,UPI,4.0,44,7.1,Delivered,Returning
+FD00515,C0077,2026-02-02,20:57,Hyderabad,Tasty Treats,South Indian,4,755,60,0,UPI,3.0,47,2.5,Delivered,Returning
+FD00516,C0049,2026-04-29,20:46,Chennai,Urban Kitchen,Pizza,3,1349,20,75,UPI,3.0,62,10.3,Delivered,New
+FD00517,C0202,2026-01-12,11:26,Kakinada,Urban Kitchen,Pizza,5,1081,50,75,Debit Card,4.0,73,13.2,Delivered,New
+FD00518,C0095,2026-01-21,21:38,Hyderabad,Food Factory,Chinese,5,186,20,50,UPI,3.0,25,10.2,Delivered,Returning
+FD00519,C0250,2026-03-19,19:52,Chennai,Pizza Point,Fast Food,4,769,20,20,Credit Card,3.0,27,2.6,Delivered,New
+FD00520,C0014,2026-02-23,17:41,Vijayawada,Tasty Treats,Chinese,5,540,20,30,Cash,3.5,45,6.9,Delivered,New
+FD00521,C0079,2026-06-29,17:31,Bengaluru,Spice Hub,Desserts,4,1348,30,20,Debit Card,4.5,68,12.7,Delivered,Returning
+FD00522,C0005,2026-01-27,20:54,Kakinada,South Flavours,Chinese,4,1335,60,100,Debit Card,3.0,46,6.6,Cancelled,Returning
+FD00523,C0119,2026-01-16,18:01,Bengaluru,Pizza Point,South Indian,1,698,50,50,UPI,4.0,54,14.1,Delivered,Returning
+FD00524,C0224,2026-01-06,12:18,Kakinada,Tasty Treats,Chinese,3,1047,30,75,Credit Card,4.5,73,10.6,Cancelled,Returning
+FD00525,C0068,2026-03-17,21:45,Bengaluru,South Flavours,Desserts,3,1117,30,75,Credit Card,4.0,59,11.5,Delivered,New
+FD00526,C0089,2026-02-21,12:38,Bengaluru,Food Factory,Desserts,4,1161,40,20,Credit Card,4.5,18,15.0,Delivered,Returning
+FD00527,C0183,2026-06-23,12:11,Chennai,Spice Hub,Desserts,1,841,50,0,Credit Card,3.0,50,4.1,Delivered,Returning
+FD00528,C0182,2026-01-12,22:56,Chennai,Urban Kitchen,Biryani,5,1387,20,100,UPI,4.0,66,7.4,Delivered,New
+FD00529,C0053,2026-05-24,10:32,Visakhapatnam,Biryani House,Fast Food,1,570,40,20,Debit Card,5.0,43,11.7,Delivered,New
+FD00530,C0079,2026-06-15,15:21,Vijayawada,Food Factory,Desserts,2,1049,50,0,Credit Card,4.0,36,5.0,Delivered,New
+FD00531,C0137,2026-04-06,21:48,Bengaluru,Pizza Point,Fast Food,2,460,60,50,Credit Card,3.5,66,7.0,Delivered,Returning
+FD00532,C0265,2026-06-24,15:01,Bengaluru,Biryani House,Desserts,1,1209,20,0,Debit Card,4.0,40,14.7,Delivered,Returning
+FD00533,C0032,2026-04-11,22:02,Kakinada,Biryani House,South Indian,1,1443,60,30,Cash,4.0,71,10.5,Cancelled,Returning
+FD00534,C0161,2026-03-30,10:52,Hyderabad,Biryani House,Fast Food,4,1063,30,75,Cash,5.0,37,13.4,Delivered,New
+FD00535,C0155,2026-01-22,10:34,Hyderabad,South Flavours,Fast Food,2,1215,60,30,Credit Card,3.0,47,8.7,Cancelled,Returning
+FD00536,C0082,2026-01-06,10:56,Chennai,Urban Kitchen,Biryani,3,1015,60,0,UPI,4.0,31,9.8,Delivered,New
+FD00537,C0025,2026-06-16,11:28,Hyderabad,Spice Hub,Chinese,3,633,60,75,Credit Card,4.0,34,5.0,Cancelled,New
+FD00538,C0194,2026-05-14,21:15,Visakhapatnam,Pizza Point,South Indian,5,544,40,50,UPI,3.5,60,7.0,Delivered,New
+FD00539,C0048,2026-01-16,16:56,Vijayawada,Cafe Corner,Biryani,4,309,40,100,Cash,4.5,50,8.3,Delivered,Returning
+FD00540,C0300,2026-05-08,20:27,Bengaluru,Cafe Corner,Fast Food,4,483,30,75,Credit Card,4.0,60,7.4,Cancelled,New
+FD00541,C0109,2026-04-27,17:02,Kakinada,Biryani House,South Indian,3,393,60,50,UPI,3.0,38,9.0,Delivered,New
+FD00542,C0061,2026-04-06,14:23,Hyderabad,Urban Kitchen,Chinese,1,442,30,75,Cash,3.0,74,13.5,Delivered,New
+FD00543,C0094,2026-05-06,10:07,Chennai,Pizza Point,Indian,1,1005,50,75,Debit Card,4.5,43,13.6,Delivered,Returning
+FD00544,C0068,2026-02-05,18:40,Bengaluru,Cafe Corner,Fast Food,4,455,40,0,Cash,4.0,29,13.6,Delivered,New
+FD00545,C0227,2026-03-13,20:05,Vijayawada,Spice Hub,South Indian,3,1299,20,100,UPI,3.5,54,8.6,Delivered,New
+FD00546,C0244,2026-05-09,10:07,Kakinada,Biryani House,Indian,3,571,30,100,Cash,3.0,66,8.5,Delivered,Returning
+FD00547,C0024,2026-05-06,10:21,Bengaluru,Biryani House,Chinese,1,1231,40,50,Debit Card,3.0,22,14.7,Cancelled,New
+FD00548,C0147,2026-02-06,12:16,Visakhapatnam,Biryani House,Pizza,4,496,20,75,Debit Card,3.5,16,11.0,Delivered,Returning
+FD00549,C0051,2026-03-23,12:26,Hyderabad,Urban Kitchen,Chinese,1,256,30,20,Credit Card,4.0,47,11.5,Delivered,New
+FD00550,C0138,2026-01-16,15:29,Chennai,South Flavours,Indian,4,209,50,100,Credit Card,3.0,32,8.8,Cancelled,New
+FD00551,C0127,2026-05-23,20:50,Vijayawada,Urban Kitchen,South Indian,4,1063,20,100,Credit Card,3.5,38,8.6,Delivered,New
+FD00552,C0276,2026-04-19,18:28,Visakhapatnam,Spice Hub,Desserts,4,1421,40,100,Credit Card,3.0,18,14.1,Delivered,Returning
+FD00553,C0129,2026-06-24,16:22,Kakinada,Tasty Treats,South Indian,5,726,20,20,UPI,4.0,20,6.5,Delivered,New
+FD00554,C0285,2026-03-13,16:13,Chennai,Pizza Point,Fast Food,3,1450,40,100,Cash,4.0,30,10.3,Delivered,Returning
+FD00555,C0108,2026-04-28,19:21,Visakhapatnam,Biryani House,Fast Food,1,1396,50,0,UPI,5.0,26,6.8,Delivered,Returning
+FD00556,C0276,2026-01-21,22:56,Kakinada,Food Factory,South Indian,1,1061,20,30,Cash,4.5,37,6.4,Delivered,New
+FD00557,C0237,2026-04-05,13:28,Visakhapatnam,Tasty Treats,Fast Food,1,725,40,20,UPI,4.5,55,5.2,Delivered,New
+FD00558,C0253,2026-04-03,10:17,Bengaluru,Tasty Treats,Indian,2,1457,50,0,Debit Card,4.5,47,7.9,Cancelled,New
+FD00559,C0290,2026-06-22,20:38,Chennai,Biryani House,Indian,5,412,20,20,Debit Card,4.5,69,4.2,Cancelled,Returning
+FD00560,C0099,2026-06-23,10:44,Kakinada,Urban Kitchen,Fast Food,5,1079,20,50,UPI,4.0,42,12.8,Delivered,Returning
+FD00561,C0063,2026-06-24,18:29,Bengaluru,Pizza Point,South Indian,1,609,20,30,Cash,4.5,43,5.4,Delivered,New
+FD00562,C0172,2026-01-21,19:51,Visakhapatnam,Tasty Treats,Fast Food,4,302,30,20,Credit Card,4.0,34,1.9,Delivered,New
+FD00563,C0246,2026-04-21,22:01,Chennai,Pizza Point,Desserts,3,656,20,50,Credit Card,4.0,68,1.8,Delivered,New
+FD00564,C0038,2026-06-03,19:28,Visakhapatnam,Cafe Corner,South Indian,1,325,20,0,Cash,4.0,71,12.9,Delivered,New
+FD00565,C0032,2026-04-24,10:19,Chennai,South Flavours,Indian,1,264,60,0,Debit Card,4.0,40,2.3,Delivered,New
+FD00566,C0006,2026-04-27,16:29,Bengaluru,Food Factory,Pizza,1,1079,60,30,Credit Card,3.0,21,1.2,Delivered,New
+FD00567,C0294,2026-02-02,20:32,Hyderabad,Pizza Point,Chinese,4,1421,50,20,Credit Card,3.5,66,1.6,Delivered,Returning
+FD00568,C0300,2026-04-22,18:41,Hyderabad,Urban Kitchen,South Indian,5,448,30,50,Debit Card,4.5,36,5.1,Delivered,New
+FD00569,C0030,2026-03-02,18:52,Chennai,Spice Hub,Chinese,3,550,30,100,Credit Card,3.0,36,3.7,Delivered,Returning
+FD00570,C0170,2026-05-29,19:21,Chennai,Urban Kitchen,Chinese,3,482,20,50,UPI,4.0,29,13.9,Delivered,New
+FD00571,C0239,2026-06-09,13:15,Bengaluru,Pizza Point,Desserts,4,570,50,20,UPI,4.0,15,2.0,Delivered,New
+FD00572,C0073,2026-03-16,17:12,Kakinada,Pizza Point,Indian,1,557,30,30,Credit Card,3.5,71,4.7,Delivered,Returning
+FD00573,C0284,2026-03-04,12:12,Visakhapatnam,Biryani House,Desserts,3,357,20,100,Credit Card,4.0,56,12.0,Delivered,Returning
+FD00574,C0108,2026-03-20,17:15,Hyderabad,Pizza Point,Fast Food,2,1229,60,50,UPI,3.0,24,13.4,Delivered,New
+FD00575,C0099,2026-05-17,16:44,Hyderabad,Pizza Point,South Indian,4,1452,30,0,Credit Card,4.5,33,12.1,Delivered,New
+FD00576,C0028,2026-06-11,22:17,Vijayawada,Cafe Corner,Biryani,1,1113,60,0,Credit Card,4.5,39,11.5,Cancelled,Returning
+FD00577,C0256,2026-05-13,17:11,Hyderabad,Pizza Point,South Indian,4,1163,50,30,Cash,5.0,73,12.1,Delivered,New
+FD00578,C0113,2026-02-21,17:55,Vijayawada,South Flavours,Biryani,3,1020,50,75,Credit Card,4.0,31,8.7,Delivered,New
+FD00579,C0152,2026-04-24,18:22,Vijayawada,Spice Hub,Chinese,5,1422,40,50,Cash,4.0,42,6.7,Delivered,Returning
+FD00580,C0140,2026-04-08,10:11,Bengaluru,Tasty Treats,Pizza,1,885,20,30,UPI,4.0,74,4.2,Delivered,New
+FD00581,C0185,2026-01-10,18:12,Hyderabad,Tasty Treats,Fast Food,3,662,40,100,Debit Card,3.5,60,9.5,Delivered,Returning
+FD00582,C0005,2026-03-18,14:52,Hyderabad,South Flavours,Chinese,5,1492,20,50,Credit Card,4.0,29,4.2,Delivered,Returning
+FD00583,C0120,2026-05-13,19:50,Chennai,Cafe Corner,Fast Food,4,847,20,30,Credit Card,4.0,64,14.2,Delivered,New
+FD00584,C0225,2026-04-26,18:01,Hyderabad,Biryani House,South Indian,2,775,20,50,Debit Card,4.0,29,6.9,Delivered,Returning
+FD00585,C0167,2026-05-31,10:36,Visakhapatnam,Biryani House,Biryani,3,1313,60,75,Cash,4.0,28,14.3,Delivered,Returning
+FD00586,C0097,2026-05-02,11:21,Chennai,Cafe Corner,Fast Food,3,340,30,0,Credit Card,3.0,67,10.6,Delivered,New
+FD00587,C0096,2026-02-20,11:58,Bengaluru,Urban Kitchen,Biryani,2,746,60,0,Cash,3.0,38,8.3,Delivered,Returning
+FD00588,C0211,2026-04-11,12:07,Vijayawada,South Flavours,Chinese,1,946,30,20,Credit Card,4.0,42,12.5,Delivered,New
+FD00589,C0295,2026-03-21,19:12,Chennai,Cafe Corner,Pizza,2,165,30,50,UPI,4.0,53,12.3,Cancelled,Returning
+FD00590,C0292,2026-05-06,17:29,Chennai,Spice Hub,Fast Food,1,739,50,30,Debit Card,4.0,54,12.5,Delivered,Returning
+FD00591,C0128,2026-02-15,19:46,Bengaluru,Cafe Corner,Chinese,2,1314,20,50,UPI,3.5,71,13.2,Delivered,Returning
+FD00592,C0035,2026-06-28,21:46,Vijayawada,Cafe Corner,Chinese,5,398,40,0,UPI,4.5,64,11.9,Delivered,Returning
+FD00593,C0085,2026-03-06,13:32,Visakhapatnam,Cafe Corner,Indian,1,1458,50,50,Debit Card,5.0,40,13.0,Delivered,New
+FD00594,C0006,2026-03-06,11:45,Vijayawada,Pizza Point,Fast Food,4,1142,50,0,UPI,4.5,57,4.4,Delivered,New
+FD00595,C0242,2026-03-13,12:10,Visakhapatnam,Food Factory,Biryani,3,404,60,100,Cash,3.5,19,10.4,Delivered,Returning
+FD00596,C0079,2026-04-23,15:11,Vijayawada,Spice Hub,Fast Food,5,592,50,100,UPI,5.0,66,8.3,Delivered,Returning
+FD00597,C0158,2026-04-24,10:38,Visakhapatnam,Spice Hub,Desserts,4,563,30,30,Credit Card,3.5,20,1.2,Delivered,New
+FD00598,C0173,2026-02-19,20:42,Visakhapatnam,Tasty Treats,Indian,2,492,20,50,UPI,4.0,35,8.9,Delivered,New
+FD00599,C0278,2026-04-12,16:07,Vijayawada,Tasty Treats,Indian,3,812,30,0,Cash,5.0,35,1.2,Delivered,Returning
+FD00600,C0113,2026-01-17,20:52,Hyderabad,Pizza Point,Indian,1,597,50,30,Cash,3.0,60,8.5,Cancelled,New
+FD00601,C0129,2026-01-25,19:20,Kakinada,South Flavours,Fast Food,2,830,30,100,Debit Card,5.0,45,1.9,Delivered,Returning
+FD00602,C0196,2026-05-11,20:47,Vijayawada,Spice Hub,Biryani,1,1412,20,30,Credit Card,5.0,42,11.6,Cancelled,New
+FD00603,C0031,2026-02-05,15:31,Hyderabad,Tasty Treats,Biryani,4,568,20,20,Cash,5.0,71,5.6,Delivered,Returning
+FD00604,C0021,2026-05-14,22:26,Kakinada,Urban Kitchen,Desserts,1,619,40,30,Credit Card,3.5,49,1.8,Delivered,New
+FD00605,C0196,2026-05-14,15:11,Bengaluru,Spice Hub,Indian,4,293,30,0,Credit Card,3.5,23,2.3,Cancelled,New
+FD00606,C0121,2026-05-10,11:27,Kakinada,Cafe Corner,Pizza,2,554,30,50,Credit Card,4.5,30,5.2,Cancelled,Returning
+FD00607,C0104,2026-03-11,22:30,Visakhapatnam,Pizza Point,Chinese,4,493,50,50,Cash,4.5,54,11.3,Delivered,Returning
+FD00608,C0011,2026-04-08,16:54,Visakhapatnam,Urban Kitchen,South Indian,5,462,60,100,Credit Card,4.0,39,7.5,Delivered,Returning
+FD00609,C0193,2026-05-24,19:30,Visakhapatnam,Pizza Point,Biryani,4,550,30,20,UPI,3.0,70,8.0,Delivered,Returning
+FD00610,C0208,2026-04-17,16:47,Hyderabad,South Flavours,Chinese,3,1462,60,0,Cash,3.0,73,2.7,Cancelled,New
+FD00611,C0100,2026-04-22,14:49,Kakinada,Pizza Point,South Indian,4,1450,40,100,UPI,5.0,39,14.0,Delivered,New
+FD00612,C0245,2026-01-09,15:40,Kakinada,Spice Hub,Fast Food,2,685,60,50,Credit Card,4.0,30,9.4,Delivered,New
+FD00613,C0060,2026-01-24,20:45,Bengaluru,South Flavours,Fast Food,5,314,60,20,Cash,3.5,68,7.0,Delivered,Returning
+FD00614,C0158,2026-04-16,22:56,Kakinada,Food Factory,Indian,5,855,30,30,Credit Card,5.0,40,10.8,Delivered,New
+FD00615,C0252,2026-01-01,11:04,Kakinada,South Flavours,South Indian,4,1490,40,100,Cash,3.5,26,6.2,Delivered,New
+FD00616,C0250,2026-02-16,18:07,Bengaluru,Tasty Treats,Biryani,2,270,30,20,Debit Card,4.0,43,9.8,Cancelled,New
+FD00617,C0086,2026-01-21,14:05,Bengaluru,Food Factory,Pizza,1,850,20,75,Credit Card,4.0,46,10.4,Delivered,New
+FD00618,C0032,2026-03-10,22:00,Kakinada,Spice Hub,Indian,2,1219,20,50,Debit Card,4.0,45,11.6,Cancelled,Returning
+FD00619,C0173,2026-04-05,20:56,Hyderabad,Pizza Point,Desserts,2,889,50,50,UPI,4.0,70,5.6,Delivered,New
+FD00620,C0234,2026-06-28,16:46,Vijayawada,Spice Hub,South Indian,1,1236,40,100,Credit Card,4.0,43,9.7,Delivered,Returning
+FD00621,C0097,2026-01-01,20:52,Hyderabad,Spice Hub,Fast Food,3,243,40,100,Cash,3.5,53,7.8,Cancelled,New
+FD00622,C0179,2026-04-20,17:42,Kakinada,Food Factory,Fast Food,4,751,60,20,Credit Card,4.5,71,9.0,Cancelled,New
+FD00623,C0066,2026-05-08,22:05,Hyderabad,Cafe Corner,Biryani,4,386,50,100,Credit Card,3.5,28,3.4,Delivered,New
+FD00624,C0223,2026-01-08,12:59,Hyderabad,South Flavours,Desserts,3,601,40,100,Cash,5.0,22,10.3,Cancelled,Returning
+FD00625,C0047,2026-06-27,15:55,Vijayawada,Food Factory,Fast Food,3,922,50,100,Cash,3.5,29,4.6,Delivered,New
+FD00626,C0058,2026-01-23,15:47,Chennai,Tasty Treats,Fast Food,1,1323,40,20,Debit Card,4.0,51,11.3,Delivered,New
+FD00627,C0275,2026-02-18,16:27,Hyderabad,Pizza Point,Desserts,2,1214,60,75,Credit Card,3.0,40,1.1,Delivered,Returning
+FD00628,C0075,2026-03-17,13:31,Kakinada,Cafe Corner,Biryani,5,730,30,100,UPI,4.5,35,5.3,Delivered,Returning
+FD00629,C0294,2026-05-03,20:53,Vijayawada,Cafe Corner,Pizza,4,270,40,20,Credit Card,5.0,74,12.3,Delivered,New
+FD00630,C0250,2026-04-11,14:52,Kakinada,Biryani House,Indian,5,953,40,50,Cash,4.0,63,6.5,Delivered,Returning
+FD00631,C0145,2026-06-28,13:44,Chennai,South Flavours,Indian,2,812,60,0,Debit Card,4.0,56,3.3,Delivered,Returning
+FD00632,C0248,2026-03-16,12:13,Vijayawada,Tasty Treats,Fast Food,1,891,60,0,Credit Card,4.0,75,14.8,Delivered,New
+FD00633,C0050,2026-04-02,17:11,Visakhapatnam,Food Factory,South Indian,3,1365,50,20,Cash,3.5,17,2.7,Delivered,Returning
+FD00634,C0155,2026-06-26,19:11,Kakinada,South Flavours,Desserts,1,1099,50,30,Cash,4.0,15,2.7,Delivered,New
+FD00635,C0251,2026-06-14,20:58,Chennai,Tasty Treats,Indian,5,1323,60,50,Debit Card,5.0,62,2.3,Cancelled,New
+FD00636,C0197,2026-05-04,20:44,Bengaluru,Urban Kitchen,South Indian,2,353,40,0,Credit Card,4.0,67,10.8,Delivered,Returning
+FD00637,C0033,2026-05-13,19:34,Kakinada,Food Factory,Desserts,2,1498,20,20,Credit Card,3.0,50,7.3,Delivered,New
+FD00638,C0021,2026-02-02,19:13,Kakinada,Biryani House,Indian,5,675,20,0,UPI,4.5,34,6.1,Cancelled,New
+FD00639,C0217,2026-06-18,10:15,Hyderabad,Spice Hub,South Indian,3,1499,60,50,Credit Card,4.5,46,10.7,Cancelled,Returning
+FD00640,C0276,2026-05-11,13:44,Visakhapatnam,Spice Hub,Biryani,1,535,30,30,Credit Card,3.5,53,8.7,Cancelled,Returning
+FD00641,C0143,2026-02-02,21:39,Bengaluru,Food Factory,South Indian,3,683,50,100,Credit Card,4.0,44,2.2,Delivered,Returning
+FD00642,C0074,2026-05-18,13:04,Kakinada,Urban Kitchen,Fast Food,2,912,60,100,Credit Card,4.0,67,3.1,Delivered,Returning
+FD00643,C0014,2026-06-04,13:04,Hyderabad,Food Factory,South Indian,1,1273,50,0,Debit Card,5.0,20,6.1,Delivered,Returning
+FD00644,C0075,2026-02-27,14:00,Visakhapatnam,South Flavours,Biryani,4,365,20,20,Debit Card,4.5,67,12.3,Delivered,Returning
+FD00645,C0293,2026-03-14,18:17,Chennai,Food Factory,Indian,2,801,50,20,Debit Card,5.0,58,14.6,Cancelled,Returning
+FD00646,C0245,2026-06-01,12:16,Visakhapatnam,Biryani House,Fast Food,2,442,50,75,Debit Card,3.0,73,11.2,Delivered,New
+FD00647,C0215,2026-04-28,12:28,Hyderabad,Cafe Corner,South Indian,3,714,50,75,Credit Card,4.0,55,13.0,Delivered,Returning
+FD00648,C0161,2026-01-24,20:05,Visakhapatnam,Tasty Treats,Indian,2,1328,20,0,Debit Card,4.5,74,7.9,Delivered,Returning
+FD00649,C0261,2026-02-04,17:31,Chennai,Food Factory,Chinese,1,1412,30,100,UPI,5.0,42,10.8,Delivered,New
+FD00650,C0271,2026-06-25,19:02,Chennai,Cafe Corner,Biryani,5,610,30,0,Debit Card,3.5,47,5.9,Delivered,Returning
+FD00651,C0254,2026-04-08,12:23,Visakhapatnam,Pizza Point,Fast Food,2,1254,20,30,Debit Card,4.0,33,4.7,Delivered,Returning
+FD00652,C0112,2026-03-20,20:32,Visakhapatnam,Cafe Corner,South Indian,4,267,40,0,Cash,4.0,34,6.0,Delivered,Returning
+FD00653,C0096,2026-04-13,15:00,Visakhapatnam,South Flavours,Chinese,2,323,60,75,Credit Card,4.0,22,13.8,Delivered,New
+FD00654,C0129,2026-02-27,17:25,Hyderabad,Urban Kitchen,Pizza,4,523,60,30,UPI,4.0,57,12.8,Delivered,New
+FD00655,C0182,2026-04-22,10:22,Kakinada,Tasty Treats,Indian,2,733,20,20,Cash,4.0,62,5.6,Delivered,New
+FD00656,C0102,2026-05-03,20:17,Visakhapatnam,South Flavours,Chinese,5,1164,30,30,Cash,4.5,61,13.9,Delivered,New
+FD00657,C0057,2026-01-28,22:01,Vijayawada,Biryani House,Pizza,5,177,30,0,Debit Card,4.0,53,11.3,Delivered,Returning
+FD00658,C0149,2026-03-14,17:05,Bengaluru,Tasty Treats,South Indian,2,1197,30,20,Debit Card,3.0,70,4.7,Delivered,Returning
+FD00659,C0102,2026-05-02,21:50,Visakhapatnam,Biryani House,Biryani,5,1438,30,20,UPI,3.5,40,1.5,Delivered,New
+FD00660,C0219,2026-01-05,19:12,Visakhapatnam,Spice Hub,Chinese,4,1225,40,100,Credit Card,3.5,36,7.0,Delivered,Returning
+FD00661,C0027,2026-03-19,11:17,Hyderabad,Urban Kitchen,Pizza,4,655,40,0,Credit Card,3.0,15,1.7,Delivered,New
+FD00662,C0147,2026-05-01,14:58,Chennai,Food Factory,Chinese,2,666,50,30,Debit Card,4.0,22,2.4,Delivered,New
+FD00663,C0170,2026-04-03,21:51,Hyderabad,Pizza Point,Biryani,3,580,60,50,UPI,3.0,23,9.8,Cancelled,New
+FD00664,C0022,2026-05-31,20:52,Vijayawada,Tasty Treats,Fast Food,4,352,20,75,Debit Card,4.0,61,7.6,Delivered,New
+FD00665,C0023,2026-02-02,13:26,Chennai,Urban Kitchen,Desserts,5,861,40,50,UPI,4.0,19,7.8,Cancelled,New
+FD00666,C0086,2026-06-03,14:44,Vijayawada,Urban Kitchen,Indian,5,274,30,100,Cash,4.0,58,8.5,Cancelled,New
+FD00667,C0085,2026-04-23,22:32,Bengaluru,South Flavours,Chinese,5,706,30,20,UPI,3.5,51,4.0,Delivered,Returning
+FD00668,C0258,2026-05-15,14:19,Vijayawada,Urban Kitchen,Fast Food,3,1280,20,20,Credit Card,3.0,49,4.3,Delivered,New
+FD00669,C0143,2026-02-04,14:55,Visakhapatnam,Tasty Treats,Desserts,2,1244,20,0,Debit Card,5.0,53,14.6,Delivered,New
+FD00670,C0282,2026-03-09,21:08,Bengaluru,Urban Kitchen,Pizza,1,1431,20,30,Credit Card,5.0,32,3.5,Delivered,New
+FD00671,C0196,2026-06-17,14:55,Kakinada,Tasty Treats,Desserts,4,601,40,30,Credit Card,4.5,55,12.3,Delivered,New
+FD00672,C0229,2026-03-01,21:46,Bengaluru,Pizza Point,Biryani,4,341,50,20,Cash,3.5,67,13.1,Delivered,Returning
+FD00673,C0093,2026-06-15,14:01,Hyderabad,Biryani House,Biryani,4,1394,30,0,Credit Card,3.0,42,4.4,Delivered,New
+FD00674,C0270,2026-02-05,21:48,Visakhapatnam,Food Factory,Chinese,4,192,20,0,UPI,3.5,30,11.8,Delivered,New
+FD00675,C0007,2026-01-03,22:06,Chennai,Pizza Point,Desserts,1,564,30,50,Cash,3.5,34,5.6,Delivered,New
+FD00676,C0029,2026-05-20,21:17,Kakinada,Food Factory,Indian,1,360,60,30,UPI,4.5,71,12.7,Delivered,New
+FD00677,C0115,2026-01-07,13:27,Bengaluru,Biryani House,Pizza,3,612,50,100,UPI,4.0,25,14.9,Delivered,New
+FD00678,C0145,2026-04-02,11:39,Hyderabad,Food Factory,Pizza,1,238,60,20,Credit Card,4.0,48,5.7,Delivered,Returning
+FD00679,C0077,2026-06-20,20:19,Chennai,Urban Kitchen,Pizza,1,705,50,100,Debit Card,4.0,66,13.7,Delivered,New
+FD00680,C0077,2026-06-17,12:20,Vijayawada,South Flavours,Chinese,4,287,20,75,Cash,5.0,32,3.0,Delivered,New
+FD00681,C0094,2026-04-09,15:20,Bengaluru,South Flavours,Chinese,4,1382,40,20,Credit Card,4.0,41,8.7,Cancelled,Returning
+FD00682,C0273,2026-05-18,13:24,Visakhapatnam,South Flavours,South Indian,5,599,20,20,Debit Card,3.0,28,14.9,Delivered,Returning
+FD00683,C0286,2026-05-02,12:58,Visakhapatnam,Spice Hub,Pizza,3,435,40,50,Credit Card,4.5,74,13.8,Delivered,New
+FD00684,C0115,2026-01-15,21:08,Visakhapatnam,Biryani House,Chinese,1,1019,40,0,UPI,5.0,52,2.0,Cancelled,New
+FD00685,C0016,2026-02-07,15:09,Visakhapatnam,Tasty Treats,Indian,1,1315,50,20,Credit Card,4.0,62,3.0,Cancelled,Returning
+FD00686,C0241,2026-04-16,21:21,Bengaluru,Spice Hub,Pizza,1,469,20,100,UPI,4.5,63,3.4,Delivered,New
+FD00687,C0203,2026-04-19,20:56,Bengaluru,Urban Kitchen,South Indian,5,776,30,50,Credit Card,4.0,20,8.3,Delivered,New
+FD00688,C0206,2026-06-08,10:14,Bengaluru,Biryani House,Desserts,5,1389,20,100,Cash,4.0,35,10.1,Delivered,Returning
+FD00689,C0085,2026-01-14,22:23,Kakinada,South Flavours,Biryani,3,372,20,0,Debit Card,4.5,64,12.9,Delivered,New
+FD00690,C0145,2026-02-11,18:06,Visakhapatnam,Tasty Treats,South Indian,1,783,30,75,Credit Card,5.0,74,1.5,Delivered,New
+FD00691,C0292,2026-05-25,10:36,Bengaluru,Spice Hub,Indian,3,340,40,0,Debit Card,4.0,40,8.0,Delivered,Returning
+FD00692,C0183,2026-02-03,21:43,Visakhapatnam,Pizza Point,Chinese,5,356,60,20,UPI,4.5,65,6.3,Cancelled,New
+FD00693,C0149,2026-02-11,12:43,Bengaluru,Food Factory,Fast Food,1,624,30,100,Credit Card,5.0,25,14.9,Cancelled,Returning
+FD00694,C0230,2026-02-03,15:18,Hyderabad,South Flavours,Indian,4,639,30,75,UPI,3.5,51,9.8,Delivered,New
+FD00695,C0008,2026-02-06,22:55,Hyderabad,Food Factory,Chinese,1,1081,40,20,Debit Card,3.5,19,4.9,Delivered,Returning
+FD00696,C0046,2026-01-19,12:45,Bengaluru,Urban Kitchen,Chinese,3,1055,30,0,Cash,3.0,38,13.0,Delivered,Returning
+FD00697,C0067,2026-04-23,15:32,Chennai,Pizza Point,Pizza,1,996,60,50,Debit Card,5.0,17,9.7,Delivered,New
+FD00698,C0288,2026-01-03,12:54,Visakhapatnam,Urban Kitchen,Chinese,2,1317,50,0,Credit Card,4.0,70,7.5,Delivered,Returning
+FD00699,C0239,2026-04-30,20:34,Bengaluru,Food Factory,Indian,2,371,50,50,Credit Card,4.0,36,1.9,Delivered,Returning
+FD00700,C0109,2026-06-29,21:30,Visakhapatnam,Urban Kitchen,Chinese,1,1266,30,50,Credit Card,5.0,28,5.5,Delivered,Returning
+FD00701,C0032,2026-04-03,22:27,Bengaluru,Tasty Treats,Indian,2,196,50,30,Debit Card,5.0,26,2.2,Delivered,Returning
+FD00702,C0208,2026-01-21,14:55,Kakinada,Cafe Corner,Desserts,4,1224,30,100,Debit Card,3.5,68,1.8,Delivered,Returning
+FD00703,C0153,2026-02-12,13:22,Bengaluru,Cafe Corner,Chinese,5,479,50,30,Cash,3.0,50,12.0,Cancelled,New
+FD00704,C0040,2026-06-20,19:39,Vijayawada,Pizza Point,Fast Food,3,179,30,50,Credit Card,4.0,70,5.4,Delivered,Returning
+FD00705,C0267,2026-01-01,17:53,Vijayawada,Cafe Corner,Fast Food,5,349,20,20,Credit Card,4.0,59,8.6,Delivered,Returning
+FD00706,C0111,2026-03-31,13:12,Kakinada,Spice Hub,Pizza,3,183,40,30,UPI,5.0,46,10.1,Delivered,Returning
+FD00707,C0211,2026-04-01,15:53,Chennai,South Flavours,South Indian,3,382,30,50,Cash,4.0,26,8.7,Delivered,Returning
+FD00708,C0196,2026-03-14,20:44,Kakinada,South Flavours,Fast Food,3,1420,20,0,UPI,3.0,56,1.2,Delivered,New
+FD00709,C0255,2026-06-09,18:06,Kakinada,Cafe Corner,South Indian,5,216,40,50,Credit Card,3.5,64,7.4,Delivered,New
+FD00710,C0101,2026-05-01,11:22,Bengaluru,South Flavours,Desserts,4,165,40,20,Debit Card,4.0,71,10.2,Delivered,Returning
+FD00711,C0124,2026-01-02,16:02,Visakhapatnam,Spice Hub,Biryani,3,1212,60,30,Debit Card,3.5,51,14.9,Delivered,Returning
+FD00712,C0099,2026-06-07,20:25,Visakhapatnam,South Flavours,Biryani,4,505,50,30,Credit Card,4.0,29,2.4,Delivered,New
+FD00713,C0296,2026-04-11,22:40,Hyderabad,Biryani House,Pizza,2,340,20,0,Cash,3.0,55,11.8,Delivered,New
+FD00714,C0279,2026-01-21,19:24,Visakhapatnam,Biryani House,Chinese,3,532,30,100,Credit Card,4.0,27,8.5,Delivered,Returning
+FD00715,C0134,2026-06-18,10:17,Visakhapatnam,Biryani House,Fast Food,1,1457,60,0,UPI,4.0,74,9.3,Delivered,New
+FD00716,C0145,2026-03-09,12:05,Visakhapatnam,Cafe Corner,Desserts,3,575,50,0,Cash,3.0,41,2.0,Delivered,New
+FD00717,C0215,2026-04-07,15:40,Bengaluru,Biryani House,Biryani,3,170,30,100,UPI,3.0,36,14.9,Delivered,New
+FD00718,C0082,2026-05-14,21:16,Visakhapatnam,Tasty Treats,South Indian,1,1247,20,75,Credit Card,3.5,70,6.1,Delivered,New
+FD00719,C0168,2026-02-05,13:05,Kakinada,Biryani House,Pizza,3,1136,30,0,Debit Card,5.0,50,10.1,Delivered,Returning
+FD00720,C0224,2026-05-12,16:59,Vijayawada,Urban Kitchen,Biryani,2,725,50,0,Debit Card,3.5,65,3.9,Delivered,Returning
+FD00721,C0229,2026-04-19,19:47,Hyderabad,Pizza Point,South Indian,1,1393,50,50,Credit Card,4.5,37,6.2,Delivered,Returning
+FD00722,C0086,2026-01-09,18:16,Chennai,South Flavours,Pizza,5,1471,60,30,Cash,3.0,22,3.5,Delivered,Returning
+FD00723,C0096,2026-04-02,13:04,Vijayawada,Pizza Point,Pizza,2,793,20,0,Debit Card,5.0,15,11.0,Delivered,Returning
+FD00724,C0291,2026-03-24,13:35,Visakhapatnam,South Flavours,Pizza,5,584,60,20,UPI,4.5,32,11.0,Delivered,Returning
+FD00725,C0223,2026-03-23,15:12,Vijayawada,Spice Hub,Desserts,4,1171,20,30,Cash,3.0,22,7.3,Cancelled,Returning
+FD00726,C0197,2026-03-02,19:01,Hyderabad,Spice Hub,Fast Food,5,159,50,30,Credit Card,4.0,17,13.5,Cancelled,New
+FD00727,C0173,2026-06-15,10:04,Bengaluru,Food Factory,Desserts,4,766,40,30,Debit Card,4.0,20,8.8,Delivered,Returning
+FD00728,C0025,2026-04-11,14:44,Bengaluru,Cafe Corner,Desserts,1,915,60,0,UPI,3.5,18,12.6,Delivered,New
+FD00729,C0166,2026-06-26,21:27,Vijayawada,Biryani House,Indian,2,905,60,0,UPI,4.0,71,12.0,Delivered,New
+FD00730,C0156,2026-01-20,14:21,Kakinada,South Flavours,Pizza,2,432,60,50,UPI,3.5,35,13.1,Cancelled,Returning
+FD00731,C0229,2026-06-21,11:33,Chennai,Tasty Treats,South Indian,4,1153,40,30,Cash,3.5,20,4.7,Delivered,New
+FD00732,C0181,2026-05-23,13:42,Kakinada,Tasty Treats,Fast Food,1,303,50,0,Credit Card,3.0,57,4.0,Delivered,New
+FD00733,C0250,2026-01-27,15:13,Chennai,Pizza Point,Desserts,3,1079,30,75,UPI,3.5,29,13.8,Delivered,Returning
+FD00734,C0263,2026-02-21,22:25,Vijayawada,Food Factory,Pizza,4,486,40,75,UPI,3.5,44,13.3,Delivered,New
+FD00735,C0009,2026-04-28,12:17,Visakhapatnam,Cafe Corner,Fast Food,5,1077,40,30,UPI,4.5,20,6.0,Delivered,New
+FD00736,C0204,2026-05-09,16:32,Hyderabad,Spice Hub,Chinese,3,907,20,0,Cash,5.0,74,6.9,Delivered,New
+FD00737,C0207,2026-02-15,19:17,Chennai,Cafe Corner,South Indian,4,373,20,100,Credit Card,3.0,29,2.6,Delivered,Returning
+FD00738,C0123,2026-01-17,18:06,Hyderabad,Tasty Treats,South Indian,4,952,50,0,Credit Card,5.0,67,13.3,Delivered,Returning
+FD00739,C0106,2026-02-13,22:13,Hyderabad,Urban Kitchen,Fast Food,5,739,20,0,Credit Card,4.5,73,10.8,Delivered,Returning
+FD00740,C0123,2026-02-13,15:43,Visakhapatnam,Biryani House,Biryani,3,1082,30,0,Cash,4.0,36,1.3,Delivered,New
+FD00741,C0088,2026-06-23,22:54,Visakhapatnam,Pizza Point,Chinese,5,152,50,20,Cash,3.0,17,12.5,Cancelled,Returning
+FD00742,C0117,2026-05-15,18:10,Vijayawada,Food Factory,Indian,3,837,50,50,Debit Card,4.5,31,10.3,Delivered,Returning
+FD00743,C0235,2026-01-04,15:19,Kakinada,Pizza Point,South Indian,5,1141,20,30,UPI,3.5,41,13.0,Delivered,Returning
+FD00744,C0255,2026-01-08,13:36,Kakinada,South Flavours,Pizza,2,332,30,50,UPI,4.0,71,9.8,Cancelled,Returning
+FD00745,C0270,2026-02-14,14:58,Kakinada,Pizza Point,Pizza,4,1356,50,30,Debit Card,3.5,17,9.1,Delivered,New
+FD00746,C0222,2026-04-27,19:50,Hyderabad,Urban Kitchen,Indian,1,1171,30,50,Credit Card,4.5,33,9.7,Delivered,Returning
+FD00747,C0250,2026-03-15,11:51,Hyderabad,Spice Hub,Chinese,1,595,40,75,UPI,3.0,46,5.3,Delivered,Returning
+FD00748,C0001,2026-01-13,14:08,Hyderabad,Urban Kitchen,Desserts,5,1298,30,0,Debit Card,3.5,61,3.8,Cancelled,New
+FD00749,C0149,2026-02-26,10:30,Hyderabad,Tasty Treats,Desserts,4,1015,50,0,Debit Card,4.0,53,5.4,Cancelled,Returning
+FD00750,C0166,2026-05-29,12:43,Vijayawada,Urban Kitchen,Biryani,4,1285,30,30,Debit Card,3.0,34,8.9,Delivered,New
+FD00751,C0193,2026-04-22,11:08,Chennai,Cafe Corner,Fast Food,3,1181,40,50,Debit Card,4.0,44,6.9,Delivered,Returning
+FD00752,C0015,2026-05-24,10:49,Bengaluru,Food Factory,Desserts,2,1409,40,20,Debit Card,3.5,54,8.6,Cancelled,Returning
+FD00753,C0028,2026-04-11,12:25,Kakinada,Spice Hub,Chinese,5,1092,20,0,UPI,4.0,68,14.8,Delivered,Returning
+FD00754,C0050,2026-03-16,19:30,Kakinada,Pizza Point,Desserts,1,398,60,100,UPI,5.0,28,8.2,Cancelled,Returning
+FD00755,C0070,2026-02-27,20:40,Vijayawada,Urban Kitchen,Fast Food,3,163,50,75,Credit Card,3.0,19,1.0,Cancelled,New
+FD00756,C0267,2026-01-25,13:13,Visakhapatnam,Cafe Corner,Indian,5,1058,50,0,UPI,4.0,40,7.8,Delivered,New
+FD00757,C0280,2026-03-08,19:43,Bengaluru,Food Factory,Chinese,2,1452,20,20,Credit Card,5.0,57,4.4,Cancelled,New
+FD00758,C0244,2026-05-03,14:18,Kakinada,Food Factory,South Indian,4,902,40,50,Cash,5.0,66,2.5,Delivered,Returning
+FD00759,C0076,2026-01-08,14:29,Visakhapatnam,South Flavours,Indian,5,770,20,100,Cash,3.0,73,13.7,Delivered,Returning
+FD00760,C0235,2026-03-12,10:10,Hyderabad,Tasty Treats,Pizza,5,949,60,0,Credit Card,5.0,24,5.9,Cancelled,Returning
+FD00761,C0236,2026-02-05,14:50,Kakinada,Urban Kitchen,Chinese,1,1471,50,50,Cash,4.5,57,3.5,Cancelled,Returning
+FD00762,C0067,2026-06-28,15:37,Chennai,Pizza Point,South Indian,5,976,20,0,UPI,5.0,25,4.2,Delivered,Returning
+FD00763,C0244,2026-03-24,22:14,Kakinada,Tasty Treats,Indian,2,936,50,0,UPI,4.5,31,2.6,Delivered,Returning
+FD00764,C0192,2026-06-05,20:53,Visakhapatnam,Biryani House,Pizza,1,1070,50,20,Credit Card,3.5,31,7.9,Delivered,New
+FD00765,C0104,2026-02-11,16:52,Chennai,Tasty Treats,Indian,5,199,20,20,UPI,3.5,72,1.1,Delivered,New
+FD00766,C0175,2026-02-17,20:46,Kakinada,Cafe Corner,Biryani,2,1318,50,75,Debit Card,4.0,54,13.6,Delivered,New
+FD00767,C0225,2026-04-20,20:24,Visakhapatnam,Food Factory,Biryani,5,760,20,0,Cash,3.5,18,9.4,Delivered,New
+FD00768,C0115,2026-03-16,14:24,Kakinada,Pizza Point,Indian,2,739,20,75,Credit Card,4.5,74,9.6,Delivered,Returning
+FD00769,C0030,2026-05-20,21:57,Visakhapatnam,Cafe Corner,Pizza,1,216,40,50,Debit Card,3.5,36,13.4,Delivered,New
+FD00770,C0105,2026-05-21,21:21,Kakinada,Spice Hub,Biryani,4,299,60,75,UPI,4.0,19,14.3,Cancelled,New
+FD00771,C0283,2026-05-03,12:17,Kakinada,Spice Hub,Indian,1,1167,60,20,Debit Card,4.0,45,5.2,Delivered,New
+FD00772,C0029,2026-01-07,22:50,Vijayawada,South Flavours,Fast Food,1,1281,50,0,Cash,4.0,59,2.8,Delivered,New
+FD00773,C0060,2026-04-23,11:57,Chennai,Pizza Point,Pizza,2,852,50,0,Credit Card,3.5,20,9.2,Delivered,Returning
+FD00774,C0275,2026-05-26,10:51,Visakhapatnam,Tasty Treats,Desserts,1,306,20,20,Cash,3.5,33,1.6,Delivered,New
+FD00775,C0150,2026-02-03,19:25,Bengaluru,Food Factory,Fast Food,1,306,40,75,Credit Card,4.0,60,11.3,Delivered,New
+FD00776,C0228,2026-03-19,15:49,Chennai,Urban Kitchen,Desserts,2,1228,40,30,UPI,3.0,37,13.6,Cancelled,Returning
+FD00777,C0144,2026-01-21,13:58,Vijayawada,Tasty Treats,Pizza,5,581,20,30,Credit Card,3.0,30,10.8,Delivered,New
+FD00778,C0011,2026-05-08,10:17,Hyderabad,South Flavours,Pizza,1,272,40,75,Cash,4.0,16,13.1,Delivered,Returning
+FD00779,C0023,2026-02-27,13:24,Vijayawada,South Flavours,South Indian,1,774,20,75,Debit Card,3.0,73,9.5,Delivered,Returning
+FD00780,C0111,2026-01-08,15:46,Chennai,South Flavours,Desserts,4,266,20,75,Cash,5.0,74,10.5,Cancelled,Returning
+FD00781,C0218,2026-05-27,21:36,Chennai,Urban Kitchen,Biryani,4,1107,30,20,UPI,4.0,66,10.6,Delivered,New
+FD00782,C0128,2026-05-19,14:21,Chennai,South Flavours,Indian,5,711,40,30,Debit Card,5.0,66,11.8,Delivered,New
+FD00783,C0158,2026-05-26,20:20,Hyderabad,Biryani House,Chinese,4,185,50,0,Cash,3.0,37,7.7,Cancelled,New
+FD00784,C0210,2026-01-15,19:05,Hyderabad,Pizza Point,Indian,4,518,40,30,Debit Card,4.0,23,4.2,Delivered,New
+FD00785,C0026,2026-03-01,11:41,Visakhapatnam,Biryani House,Fast Food,5,1051,60,30,UPI,4.5,60,4.2,Delivered,Returning
+FD00786,C0009,2026-06-23,15:34,Kakinada,Spice Hub,South Indian,2,866,20,0,Cash,3.0,47,2.1,Delivered,Returning
+FD00787,C0293,2026-04-06,20:26,Visakhapatnam,South Flavours,Pizza,2,200,40,75,Debit Card,4.0,41,13.6,Delivered,Returning
+FD00788,C0151,2026-06-09,10:10,Hyderabad,Spice Hub,Pizza,2,1360,20,0,Credit Card,4.0,47,11.0,Cancelled,Returning
+FD00789,C0111,2026-04-07,19:02,Kakinada,Biryani House,Chinese,1,308,30,75,Cash,4.5,61,2.7,Cancelled,New
+FD00790,C0242,2026-06-18,18:33,Bengaluru,Pizza Point,Pizza,2,1328,40,20,Debit Card,3.5,66,11.7,Delivered,New
+FD00791,C0234,2026-03-22,21:07,Kakinada,Tasty Treats,Chinese,4,891,20,30,UPI,4.0,56,7.8,Delivered,Returning
+FD00792,C0215,2026-02-28,19:52,Vijayawada,Tasty Treats,Desserts,4,1347,30,75,Debit Card,4.0,36,5.4,Delivered,Returning
+FD00793,C0216,2026-05-10,12:36,Bengaluru,Tasty Treats,Biryani,4,181,30,0,Cash,4.0,63,8.8,Delivered,New
+FD00794,C0065,2026-01-09,16:01,Kakinada,Biryani House,Indian,2,1204,60,50,Cash,4.0,23,6.6,Cancelled,New
+FD00795,C0151,2026-01-31,15:57,Hyderabad,Food Factory,Fast Food,1,301,40,50,Cash,5.0,43,11.4,Delivered,Returning
+FD00796,C0245,2026-06-29,12:46,Vijayawada,Food Factory,Biryani,1,1365,60,30,Cash,4.0,35,7.1,Cancelled,Returning
+FD00797,C0050,2026-03-01,14:31,Hyderabad,Spice Hub,South Indian,5,1225,60,75,Cash,4.0,35,6.4,Delivered,New
+FD00798,C0022,2026-02-23,16:33,Hyderabad,Pizza Point,Indian,3,733,30,0,Debit Card,4.0,46,7.1,Delivered,Returning
+FD00799,C0133,2026-06-05,22:06,Vijayawada,Urban Kitchen,Biryani,1,573,60,75,Credit Card,3.0,53,13.6,Cancelled,New
+FD00800,C0004,2026-05-06,10:23,Vijayawada,Urban Kitchen,South Indian,4,1061,60,20,Cash,4.0,73,2.5,Delivered,Returning
+FD00801,C0222,2026-05-07,14:05,Vijayawada,Urban Kitchen,Fast Food,1,874,20,100,Credit Card,5.0,19,5.6,Cancelled,Returning
+FD00802,C0142,2026-04-27,20:47,Chennai,Food Factory,Fast Food,3,228,50,0,Debit Card,3.5,68,8.8,Delivered,New
+FD00803,C0126,2026-02-05,19:24,Vijayawada,Tasty Treats,Pizza,4,460,50,20,Cash,4.0,23,3.8,Delivered,New
+FD00804,C0002,2026-04-22,11:31,Chennai,Tasty Treats,Fast Food,2,229,50,100,Debit Card,4.5,39,9.8,Delivered,Returning
+FD00805,C0248,2026-05-16,20:11,Hyderabad,Tasty Treats,Pizza,4,1153,50,75,Debit Card,4.5,45,5.1,Delivered,New
+FD00806,C0148,2026-04-18,17:20,Vijayawada,South Flavours,Indian,2,1101,40,100,UPI,4.0,59,6.6,Delivered,Returning
+FD00807,C0251,2026-06-03,16:43,Vijayawada,Spice Hub,Pizza,3,1189,30,50,UPI,4.5,64,5.5,Delivered,Returning
+FD00808,C0201,2026-04-24,16:25,Hyderabad,Spice Hub,Pizza,4,598,40,100,UPI,4.0,43,6.7,Cancelled,New
+FD00809,C0275,2026-02-22,22:40,Visakhapatnam,Pizza Point,Biryani,5,1255,20,100,UPI,4.0,20,11.9,Delivered,Returning
+FD00810,C0284,2026-01-17,20:03,Chennai,Tasty Treats,Pizza,5,556,30,75,Cash,5.0,29,5.1,Delivered,Returning
+FD00811,C0170,2026-04-16,13:35,Kakinada,Tasty Treats,Indian,1,191,60,0,Cash,4.0,17,3.2,Delivered,New
+FD00812,C0118,2026-06-11,22:44,Vijayawada,Spice Hub,Pizza,1,923,50,20,Debit Card,3.0,19,2.0,Delivered,New
+FD00813,C0008,2026-05-19,19:58,Vijayawada,Food Factory,Fast Food,5,951,30,75,Debit Card,4.0,42,8.2,Delivered,Returning
+FD00814,C0141,2026-04-28,13:06,Hyderabad,Cafe Corner,Chinese,3,1029,20,20,Cash,4.5,32,7.8,Cancelled,New
+FD00815,C0196,2026-01-05,17:46,Bengaluru,Pizza Point,Desserts,5,371,50,20,UPI,4.0,64,4.2,Delivered,Returning
+FD00816,C0289,2026-01-28,20:19,Hyderabad,Biryani House,Desserts,1,345,60,20,Credit Card,4.0,52,4.5,Delivered,Returning
+FD00817,C0243,2026-05-14,21:53,Chennai,Tasty Treats,Indian,4,666,50,30,Debit Card,3.5,17,5.5,Cancelled,Returning
+FD00818,C0003,2026-03-10,21:13,Chennai,Cafe Corner,South Indian,4,791,30,30,Cash,5.0,45,8.2,Delivered,New
+FD00819,C0218,2026-06-29,11:24,Vijayawada,Spice Hub,Biryani,5,398,30,20,Cash,3.0,17,13.4,Delivered,New
+FD00820,C0269,2026-05-05,12:47,Chennai,South Flavours,Chinese,1,757,20,50,Debit Card,5.0,74,13.3,Delivered,Returning
+FD00821,C0191,2026-05-25,20:10,Vijayawada,Urban Kitchen,South Indian,2,1407,40,75,Debit Card,4.0,44,3.9,Delivered,New
+FD00822,C0085,2026-05-15,21:53,Bengaluru,Spice Hub,Pizza,4,517,30,50,UPI,3.0,34,10.8,Delivered,New
+FD00823,C0276,2026-04-28,15:06,Visakhapatnam,Cafe Corner,South Indian,2,286,40,100,Credit Card,4.0,55,1.2,Delivered,Returning
+FD00824,C0146,2026-04-20,19:46,Hyderabad,Pizza Point,South Indian,4,671,60,75,Credit Card,3.0,52,3.1,Delivered,Returning
+FD00825,C0092,2026-03-09,19:06,Vijayawada,South Flavours,Pizza,5,1362,60,30,Cash,3.5,25,1.0,Delivered,New
+FD00826,C0047,2026-06-07,12:09,Vijayawada,Cafe Corner,Desserts,1,812,20,0,Credit Card,4.5,66,7.2,Delivered,Returning
+FD00827,C0155,2026-05-09,22:07,Vijayawada,South Flavours,Chinese,4,1121,40,30,Debit Card,4.5,20,13.4,Delivered,New
+FD00828,C0143,2026-02-06,16:35,Bengaluru,Cafe Corner,Fast Food,3,396,60,50,Debit Card,3.5,16,13.1,Delivered,Returning
+FD00829,C0218,2026-02-24,19:35,Vijayawada,South Flavours,Pizza,2,171,30,50,Debit Card,4.5,27,1.1,Delivered,Returning
+FD00830,C0049,2026-04-05,14:32,Visakhapatnam,Urban Kitchen,Indian,3,1464,50,50,UPI,5.0,60,4.5,Delivered,New
+FD00831,C0242,2026-06-05,20:29,Bengaluru,Biryani House,Chinese,5,362,20,30,UPI,4.5,72,11.0,Delivered,New
+FD00832,C0043,2026-04-18,11:03,Bengaluru,Spice Hub,Pizza,1,1264,40,20,UPI,4.0,68,10.4,Delivered,New
+FD00833,C0188,2026-05-13,10:42,Bengaluru,South Flavours,Desserts,1,283,30,75,Credit Card,5.0,32,2.2,Delivered,New
+FD00834,C0142,2026-06-05,13:44,Chennai,South Flavours,Biryani,1,787,40,75,Debit Card,3.0,36,7.5,Delivered,Returning
+FD00835,C0046,2026-01-30,11:11,Kakinada,Food Factory,Biryani,3,1360,20,20,UPI,3.5,55,6.2,Delivered,New
+FD00836,C0158,2026-06-24,20:57,Vijayawada,Biryani House,Pizza,1,926,40,20,Debit Card,3.5,51,5.4,Delivered,New
+FD00837,C0140,2026-02-21,12:18,Hyderabad,Cafe Corner,Pizza,1,1153,40,75,Debit Card,4.0,64,10.0,Delivered,New
+FD00838,C0019,2026-05-30,16:09,Chennai,Tasty Treats,Fast Food,4,860,40,20,Debit Card,5.0,47,8.7,Delivered,New
+FD00839,C0263,2026-02-23,14:13,Bengaluru,Urban Kitchen,Indian,1,1208,30,50,Credit Card,4.0,52,5.5,Cancelled,Returning
+FD00840,C0018,2026-03-24,21:06,Kakinada,Pizza Point,Desserts,1,475,50,50,Debit Card,4.0,56,13.6,Delivered,Returning
+FD00841,C0157,2026-02-11,17:34,Vijayawada,Spice Hub,Chinese,5,1084,60,75,Cash,5.0,40,7.6,Delivered,Returning
+FD00842,C0192,2026-06-03,15:30,Kakinada,South Flavours,Pizza,1,629,60,0,Cash,4.0,64,4.8,Cancelled,Returning
+FD00843,C0015,2026-02-11,18:10,Hyderabad,Tasty Treats,South Indian,2,416,40,0,UPI,4.0,65,11.7,Delivered,Returning
+FD00844,C0203,2026-02-12,17:00,Kakinada,Biryani House,Biryani,2,767,40,0,Credit Card,3.5,69,3.8,Delivered,New
+FD00845,C0079,2026-06-25,18:54,Hyderabad,Spice Hub,Chinese,2,855,20,50,Cash,5.0,28,13.8,Delivered,Returning
+FD00846,C0125,2026-01-25,16:08,Hyderabad,Biryani House,Chinese,3,729,50,75,Cash,4.5,19,5.9,Cancelled,New
+FD00847,C0114,2026-06-05,12:49,Vijayawada,Pizza Point,Pizza,3,1176,20,75,Cash,3.0,56,4.2,Delivered,New
+FD00848,C0023,2026-02-24,14:27,Visakhapatnam,Pizza Point,Chinese,2,1021,30,30,Debit Card,4.0,58,12.5,Delivered,Returning
+FD00849,C0216,2026-02-15,12:25,Kakinada,Food Factory,Chinese,1,859,20,100,Cash,3.0,25,5.5,Cancelled,Returning
+FD00850,C0233,2026-01-03,17:41,Kakinada,South Flavours,Chinese,1,770,50,30,UPI,4.5,66,12.2,Delivered,Returning
+FD00851,C0243,2026-03-27,18:23,Visakhapatnam,Biryani House,Chinese,5,935,20,20,UPI,4.0,75,14.1,Cancelled,Returning
+FD00852,C0102,2026-05-12,19:46,Bengaluru,South Flavours,Indian,4,726,20,0,Cash,4.0,38,1.7,Cancelled,Returning
+FD00853,C0130,2026-04-19,15:43,Hyderabad,Spice Hub,South Indian,3,516,40,30,Cash,3.0,43,5.5,Delivered,New
+FD00854,C0183,2026-01-10,18:47,Bengaluru,Tasty Treats,Biryani,1,1245,20,20,Credit Card,5.0,46,7.0,Delivered,Returning
+FD00855,C0235,2026-06-26,19:15,Kakinada,Cafe Corner,Indian,1,818,40,0,Credit Card,4.5,61,9.9,Delivered,Returning
+FD00856,C0263,2026-01-21,15:59,Kakinada,Urban Kitchen,Chinese,4,195,30,100,Debit Card,5.0,56,11.4,Delivered,Returning
+FD00857,C0060,2026-02-19,19:16,Hyderabad,Tasty Treats,Fast Food,1,916,60,50,Credit Card,4.0,32,11.5,Delivered,Returning
+FD00858,C0257,2026-06-21,10:38,Bengaluru,Biryani House,Fast Food,3,708,20,50,Credit Card,3.0,65,6.8,Delivered,Returning
+FD00859,C0137,2026-04-29,19:50,Kakinada,Pizza Point,Indian,2,610,20,100,Debit Card,3.5,19,9.6,Cancelled,Returning
+FD00860,C0216,2026-06-12,19:21,Chennai,South Flavours,Chinese,5,175,40,30,Debit Card,4.0,67,7.2,Delivered,Returning
+FD00861,C0108,2026-05-17,21:10,Kakinada,South Flavours,Pizza,4,216,60,0,Cash,4.5,37,2.2,Cancelled,Returning
+FD00862,C0156,2026-03-16,22:20,Bengaluru,Cafe Corner,Indian,2,1429,60,20,Debit Card,4.5,42,6.8,Delivered,Returning
+FD00863,C0285,2026-05-06,13:24,Chennai,Biryani House,Chinese,5,402,20,50,Credit Card,3.5,22,9.0,Delivered,New
+FD00864,C0206,2026-05-21,16:22,Vijayawada,South Flavours,South Indian,3,804,40,100,UPI,5.0,71,10.6,Delivered,Returning
+FD00865,C0116,2026-04-14,17:48,Bengaluru,Urban Kitchen,Desserts,4,471,30,50,Debit Card,3.0,49,12.6,Delivered,New
+FD00866,C0051,2026-04-09,19:41,Bengaluru,South Flavours,Chinese,2,1453,20,75,Credit Card,3.5,54,9.7,Delivered,Returning
+FD00867,C0012,2026-03-25,19:15,Vijayawada,Cafe Corner,Fast Food,1,908,20,100,Cash,4.5,47,13.1,Delivered,Returning
+FD00868,C0189,2026-03-03,12:30,Kakinada,Tasty Treats,Pizza,2,750,20,0,Credit Card,4.5,44,7.4,Cancelled,Returning
+FD00869,C0124,2026-02-15,17:32,Kakinada,Food Factory,Desserts,5,828,30,20,Cash,5.0,19,1.1,Delivered,Returning
+FD00870,C0267,2026-05-01,16:04,Bengaluru,Urban Kitchen,Fast Food,5,397,60,100,UPI,4.0,45,12.6,Delivered,Returning
+FD00871,C0204,2026-01-11,15:25,Kakinada,Cafe Corner,Chinese,1,362,30,30,UPI,5.0,25,6.1,Delivered,New
+FD00872,C0125,2026-05-04,13:16,Visakhapatnam,Pizza Point,Fast Food,1,1088,50,20,Debit Card,4.0,33,10.6,Delivered,Returning
+FD00873,C0133,2026-05-26,14:38,Visakhapatnam,Biryani House,Biryani,5,740,20,20,Debit Card,4.5,38,11.0,Delivered,New
+FD00874,C0291,2026-06-12,14:30,Kakinada,Cafe Corner,Fast Food,3,466,30,20,Debit Card,4.0,31,9.9,Delivered,New
+FD00875,C0299,2026-03-19,12:37,Visakhapatnam,Urban Kitchen,Pizza,5,1208,50,50,Credit Card,4.0,56,3.2,Cancelled,Returning
+FD00876,C0268,2026-04-06,16:55,Bengaluru,Biryani House,Desserts,5,1137,30,50,Cash,3.0,57,14.3,Delivered,New
+FD00877,C0159,2026-02-22,13:09,Hyderabad,Food Factory,Fast Food,2,880,50,50,UPI,5.0,69,12.5,Cancelled,New
+FD00878,C0104,2026-04-04,20:02,Bengaluru,Food Factory,Pizza,5,287,40,75,UPI,3.0,43,8.9,Delivered,New
+FD00879,C0132,2026-02-16,21:59,Kakinada,Tasty Treats,Biryani,4,513,20,75,Debit Card,4.5,32,2.3,Delivered,New
+FD00880,C0068,2026-05-14,14:03,Vijayawada,Tasty Treats,Biryani,5,1340,50,50,UPI,4.5,71,11.9,Delivered,New
+FD00881,C0101,2026-05-03,11:28,Visakhapatnam,Cafe Corner,Biryani,1,1260,60,20,Cash,4.0,51,1.1,Delivered,New
+FD00882,C0227,2026-06-14,13:37,Kakinada,Cafe Corner,Indian,3,983,60,30,Cash,5.0,26,5.6,Delivered,Returning
+FD00883,C0154,2026-03-09,18:15,Hyderabad,Urban Kitchen,Fast Food,5,1180,40,100,Cash,3.0,63,14.2,Delivered,New
+FD00884,C0164,2026-05-11,17:31,Vijayawada,Biryani House,Indian,4,773,20,50,Debit Card,5.0,58,8.5,Delivered,New
+FD00885,C0056,2026-03-01,13:19,Chennai,Urban Kitchen,Pizza,5,1116,20,100,Debit Card,4.5,28,9.0,Delivered,Returning
+FD00886,C0081,2026-02-19,22:25,Vijayawada,Biryani House,South Indian,2,816,60,50,Cash,5.0,32,4.2,Delivered,Returning
+FD00887,C0156,2026-04-05,12:19,Hyderabad,Pizza Point,Desserts,3,1071,40,50,Cash,4.0,15,11.7,Delivered,New
+FD00888,C0210,2026-04-01,20:51,Vijayawada,Cafe Corner,Desserts,3,189,30,20,Debit Card,4.0,68,6.2,Delivered,Returning
+FD00889,C0196,2026-03-25,18:35,Kakinada,Tasty Treats,Desserts,2,1414,60,50,Debit Card,3.0,19,4.4,Delivered,Returning
+FD00890,C0241,2026-01-12,22:42,Bengaluru,Cafe Corner,Biryani,3,1392,60,50,UPI,3.0,18,10.0,Delivered,Returning
+FD00891,C0225,2026-03-14,11:30,Vijayawada,Food Factory,Pizza,4,460,30,75,Debit Card,4.5,27,8.9,Delivered,New
+FD00892,C0168,2026-05-27,18:48,Kakinada,Urban Kitchen,South Indian,5,746,20,20,UPI,5.0,60,11.3,Delivered,Returning
+FD00893,C0110,2026-02-17,15:29,Vijayawada,Cafe Corner,Pizza,3,557,40,30,UPI,3.5,22,10.0,Delivered,Returning
+FD00894,C0250,2026-01-13,18:03,Chennai,Pizza Point,Indian,5,1045,20,75,Debit Card,4.5,46,5.0,Delivered,New
+FD00895,C0039,2026-05-25,11:35,Visakhapatnam,Biryani House,Desserts,5,329,60,50,Credit Card,3.0,64,10.6,Delivered,Returning
+FD00896,C0232,2026-02-08,20:21,Visakhapatnam,Biryani House,Fast Food,5,845,50,75,Cash,3.0,40,9.0,Delivered,Returning
+FD00897,C0010,2026-01-03,13:20,Bengaluru,Biryani House,Pizza,2,1346,40,75,Cash,5.0,57,3.8,Cancelled,Returning
+FD00898,C0296,2026-02-09,13:49,Vijayawada,Tasty Treats,Pizza,2,356,20,75,UPI,3.5,49,5.9,Delivered,Returning
+FD00899,C0162,2026-02-28,20:13,Vijayawada,Urban Kitchen,Biryani,4,705,30,20,Debit Card,3.0,23,13.3,Delivered,New
+FD00900,C0193,2026-01-07,17:55,Kakinada,Tasty Treats,Chinese,1,1065,50,50,Credit Card,3.5,64,6.3,Delivered,New
+FD00901,C0090,2026-05-10,19:46,Chennai,Food Factory,Biryani,2,396,50,100,Debit Card,5.0,35,6.8,Delivered,New
+FD00902,C0260,2026-04-03,17:16,Chennai,Food Factory,Chinese,1,164,50,50,Cash,3.0,37,6.0,Delivered,New
+FD00903,C0223,2026-06-16,14:14,Kakinada,Food Factory,Fast Food,4,1115,20,30,Debit Card,3.0,24,12.9,Delivered,New
+FD00904,C0066,2026-05-13,12:08,Kakinada,Cafe Corner,Desserts,1,275,60,20,Debit Card,4.0,54,6.8,Delivered,Returning
+FD00905,C0089,2026-02-14,18:09,Kakinada,Biryani House,Pizza,1,482,20,50,Credit Card,4.0,40,9.8,Delivered,Returning
+FD00906,C0015,2026-01-07,15:01,Bengaluru,Spice Hub,Fast Food,2,984,20,75,Cash,4.5,61,8.4,Delivered,New
+FD00907,C0008,2026-03-31,13:05,Bengaluru,Food Factory,Indian,4,1101,50,75,Cash,3.5,69,9.4,Delivered,Returning
+FD00908,C0244,2026-05-01,14:08,Hyderabad,Pizza Point,South Indian,1,1128,50,100,Credit Card,3.5,29,8.2,Delivered,New
+FD00909,C0043,2026-01-25,21:25,Hyderabad,Food Factory,Biryani,2,663,30,100,Debit Card,4.0,60,14.6,Cancelled,Returning
+FD00910,C0068,2026-03-25,16:23,Kakinada,Biryani House,South Indian,1,938,20,20,Credit Card,3.0,24,9.9,Delivered,New
+FD00911,C0204,2026-03-24,10:36,Bengaluru,Cafe Corner,Desserts,3,534,60,50,Cash,3.5,44,9.7,Cancelled,Returning
+FD00912,C0061,2026-03-13,20:49,Chennai,Pizza Point,Pizza,2,672,40,50,Cash,5.0,21,10.4,Delivered,Returning
+FD00913,C0033,2026-04-04,16:41,Visakhapatnam,Biryani House,Indian,2,1086,20,0,Debit Card,3.5,70,5.9,Delivered,Returning
+FD00914,C0284,2026-01-22,18:11,Bengaluru,Tasty Treats,Biryani,2,184,30,100,Debit Card,4.5,53,11.9,Cancelled,New
+FD00915,C0273,2026-04-03,18:14,Kakinada,Biryani House,Pizza,2,355,30,100,Credit Card,5.0,24,8.6,Cancelled,Returning
+FD00916,C0104,2026-03-13,10:25,Hyderabad,South Flavours,South Indian,4,1125,50,30,Credit Card,5.0,75,5.2,Delivered,Returning
+FD00917,C0285,2026-06-21,14:13,Kakinada,Food Factory,Indian,4,437,30,50,Credit Card,3.5,40,12.0,Delivered,Returning
+FD00918,C0100,2026-03-05,15:04,Vijayawada,Urban Kitchen,Biryani,4,402,60,100,Credit Card,3.5,43,3.0,Delivered,Returning
+FD00919,C0006,2026-06-13,11:33,Hyderabad,Food Factory,Desserts,5,1114,30,100,Cash,4.0,67,2.7,Cancelled,Returning
+FD00920,C0079,2026-01-19,22:58,Kakinada,Pizza Point,Pizza,1,931,40,0,Cash,4.0,52,3.4,Delivered,Returning
+FD00921,C0116,2026-05-14,11:05,Kakinada,Pizza Point,Biryani,4,1035,50,0,UPI,4.0,68,11.1,Delivered,Returning
+FD00922,C0261,2026-03-26,16:42,Hyderabad,Pizza Point,Indian,1,357,50,20,Cash,3.5,52,7.1,Delivered,New
+FD00923,C0250,2026-05-24,19:53,Chennai,South Flavours,South Indian,5,933,20,75,UPI,4.5,68,12.1,Delivered,New
+FD00924,C0061,2026-03-03,15:37,Kakinada,South Flavours,Desserts,4,231,40,100,Cash,4.0,51,13.1,Delivered,Returning
+FD00925,C0222,2026-06-21,10:13,Chennai,Biryani House,Indian,3,352,40,50,UPI,5.0,44,12.9,Delivered,Returning
+FD00926,C0177,2026-04-01,13:17,Bengaluru,Spice Hub,Pizza,4,1450,40,20,Credit Card,4.5,64,13.1,Delivered,Returning
+FD00927,C0179,2026-02-14,17:54,Visakhapatnam,Pizza Point,Pizza,5,1252,30,30,Debit Card,3.0,73,11.1,Delivered,Returning
+FD00928,C0255,2026-06-13,12:48,Bengaluru,Tasty Treats,Pizza,4,868,40,50,Debit Card,3.5,25,5.5,Delivered,New
+FD00929,C0298,2026-03-21,18:44,Kakinada,Urban Kitchen,Desserts,5,1252,30,50,UPI,3.5,20,2.3,Cancelled,Returning
+FD00930,C0135,2026-02-07,21:21,Chennai,Pizza Point,Chinese,2,938,20,100,Debit Card,4.5,51,14.6,Delivered,New
+FD00931,C0227,2026-01-11,13:35,Vijayawada,Urban Kitchen,Indian,4,609,30,20,Credit Card,4.0,56,12.4,Delivered,New
+FD00932,C0152,2026-03-04,10:54,Chennai,Cafe Corner,Desserts,4,998,60,75,Credit Card,4.0,26,12.9,Cancelled,Returning
+FD00933,C0295,2026-04-10,21:16,Kakinada,Pizza Point,Desserts,3,1033,40,30,Credit Card,4.0,49,6.0,Delivered,Returning
+FD00934,C0127,2026-05-18,19:08,Visakhapatnam,Cafe Corner,South Indian,3,364,60,20,Debit Card,5.0,59,10.0,Cancelled,New
+FD00935,C0239,2026-03-10,19:53,Visakhapatnam,Cafe Corner,South Indian,4,1168,60,50,UPI,3.5,16,8.8,Cancelled,New
+FD00936,C0178,2026-05-03,21:09,Visakhapatnam,Pizza Point,Indian,3,1316,40,100,UPI,5.0,53,7.9,Delivered,Returning
+FD00937,C0111,2026-06-19,17:19,Chennai,Urban Kitchen,Pizza,2,1317,60,50,Credit Card,4.5,58,9.2,Delivered,New
+FD00938,C0184,2026-05-31,11:49,Visakhapatnam,Food Factory,South Indian,4,480,30,20,Credit Card,3.5,16,10.1,Delivered,New
+FD00939,C0170,2026-01-23,11:25,Chennai,South Flavours,Desserts,4,930,50,20,Debit Card,3.5,21,5.4,Delivered,Returning
+FD00940,C0130,2026-05-08,11:11,Hyderabad,South Flavours,Biryani,2,869,20,30,Cash,3.0,48,4.6,Cancelled,New
+FD00941,C0286,2026-01-16,20:23,Visakhapatnam,Biryani House,Indian,5,175,20,30,Cash,4.0,16,12.2,Cancelled,Returning
+FD00942,C0036,2026-02-14,13:40,Chennai,Cafe Corner,Biryani,5,597,40,0,Credit Card,4.5,38,9.0,Delivered,New
+FD00943,C0260,2026-02-08,17:01,Chennai,Spice Hub,South Indian,1,788,40,0,Debit Card,5.0,26,9.3,Delivered,New
+FD00944,C0255,2026-02-19,19:09,Chennai,Pizza Point,Chinese,5,946,50,0,UPI,4.0,30,6.1,Delivered,Returning
+FD00945,C0097,2026-04-14,10:22,Visakhapatnam,Cafe Corner,Desserts,5,352,60,0,Debit Card,4.5,51,9.1,Cancelled,Returning
+FD00946,C0280,2026-06-14,13:18,Hyderabad,Biryani House,Chinese,2,749,50,50,Cash,4.0,20,7.9,Delivered,New
+FD00947,C0165,2026-05-24,17:39,Bengaluru,Urban Kitchen,Chinese,3,262,60,0,Credit Card,3.0,34,13.5,Cancelled,New
+FD00948,C0161,2026-01-13,18:01,Visakhapatnam,Urban Kitchen,Chinese,2,870,60,0,Cash,5.0,47,8.3,Delivered,Returning
+FD00949,C0023,2026-02-24,11:29,Vijayawada,Tasty Treats,Fast Food,3,299,30,50,Credit Card,4.5,55,9.6,Delivered,Returning
+FD00950,C0106,2026-06-26,11:59,Hyderabad,Spice Hub,Biryani,3,512,50,20,Debit Card,4.0,17,3.2,Cancelled,New
+FD00951,C0133,2026-04-19,20:36,Kakinada,Urban Kitchen,Biryani,3,988,20,50,Cash,4.0,32,12.8,Delivered,Returning
+FD00952,C0130,2026-06-03,10:40,Kakinada,South Flavours,Indian,4,413,30,0,UPI,3.0,25,13.6,Delivered,New
+FD00953,C0094,2026-05-18,15:10,Kakinada,Urban Kitchen,Fast Food,4,733,60,30,Debit Card,4.5,31,2.5,Delivered,Returning
+FD00954,C0104,2026-01-23,18:54,Bengaluru,Tasty Treats,Biryani,5,223,50,50,UPI,3.0,29,1.5,Delivered,New
+FD00955,C0043,2026-06-27,22:04,Vijayawada,South Flavours,South Indian,3,1047,30,50,UPI,5.0,74,8.1,Delivered,New
+FD00956,C0163,2026-01-12,19:00,Vijayawada,Pizza Point,Desserts,3,509,40,50,Credit Card,5.0,18,6.5,Delivered,Returning
+FD00957,C0259,2026-01-17,13:11,Kakinada,Tasty Treats,Pizza,4,201,50,0,Credit Card,4.5,48,5.0,Delivered,New
+FD00958,C0281,2026-03-23,10:07,Kakinada,Food Factory,Chinese,5,1244,20,75,Credit Card,5.0,74,5.5,Delivered,New
+FD00959,C0054,2026-06-25,13:00,Bengaluru,Spice Hub,South Indian,1,943,60,0,Credit Card,5.0,17,8.9,Delivered,New
+FD00960,C0244,2026-05-27,20:24,Hyderabad,South Flavours,Chinese,2,1154,60,30,Debit Card,5.0,44,7.7,Delivered,Returning
+FD00961,C0275,2026-04-03,13:09,Hyderabad,Biryani House,Chinese,3,478,40,100,UPI,4.0,66,5.2,Delivered,Returning
+FD00962,C0211,2026-05-19,13:25,Vijayawada,Pizza Point,Biryani,4,1012,50,50,Cash,4.0,75,6.4,Delivered,Returning
+FD00963,C0167,2026-06-20,16:08,Kakinada,Tasty Treats,Biryani,2,541,60,20,Debit Card,4.0,50,13.1,Delivered,Returning
+FD00964,C0158,2026-02-24,16:09,Bengaluru,Food Factory,South Indian,4,765,60,50,UPI,3.5,28,5.7,Delivered,Returning
+FD00965,C0265,2026-04-21,12:28,Visakhapatnam,Tasty Treats,Chinese,5,502,40,100,Credit Card,5.0,40,9.1,Delivered,New
+FD00966,C0211,2026-03-23,17:15,Kakinada,Biryani House,Desserts,4,797,60,75,UPI,5.0,21,12.0,Delivered,New
+FD00967,C0005,2026-01-14,15:54,Visakhapatnam,Pizza Point,Pizza,2,458,30,30,UPI,4.0,54,13.7,Cancelled,Returning
+FD00968,C0244,2026-03-28,21:11,Hyderabad,Urban Kitchen,Indian,5,477,30,20,Cash,3.0,49,13.7,Delivered,New
+FD00969,C0288,2026-05-22,20:30,Kakinada,Urban Kitchen,Fast Food,2,382,30,50,UPI,3.0,23,13.3,Delivered,Returning
+FD00970,C0245,2026-02-13,22:01,Chennai,Pizza Point,Chinese,5,1321,30,50,UPI,4.0,75,10.4,Delivered,Returning
+FD00971,C0044,2026-04-05,11:11,Vijayawada,Urban Kitchen,Fast Food,4,456,20,100,Credit Card,5.0,35,5.1,Delivered,Returning
+FD00972,C0254,2026-01-05,19:57,Chennai,South Flavours,Biryani,3,667,30,75,Debit Card,4.5,72,13.8,Delivered,Returning
+FD00973,C0086,2026-01-14,20:15,Kakinada,Urban Kitchen,Pizza,4,1036,40,0,Debit Card,5.0,63,10.2,Delivered,Returning
+FD00974,C0283,2026-01-09,12:55,Chennai,Spice Hub,Fast Food,5,189,40,50,Credit Card,4.0,39,6.4,Delivered,Returning
+FD00975,C0172,2026-04-04,22:32,Bengaluru,South Flavours,Fast Food,3,421,40,100,Debit Card,4.5,27,7.8,Delivered,New
+FD00976,C0231,2026-06-21,11:51,Kakinada,Pizza Point,Desserts,5,382,20,20,UPI,3.5,19,3.5,Delivered,New
+FD00977,C0293,2026-03-02,22:05,Visakhapatnam,Spice Hub,Fast Food,1,848,60,0,Credit Card,4.5,55,14.5,Delivered,Returning
+FD00978,C0055,2026-06-06,11:03,Kakinada,Biryani House,Biryani,1,530,20,100,UPI,3.0,42,12.1,Delivered,New
+FD00979,C0026,2026-01-21,16:20,Kakinada,Tasty Treats,Chinese,2,1164,60,100,Credit Card,4.0,33,11.2,Cancelled,New
+FD00980,C0227,2026-02-17,18:00,Visakhapatnam,Biryani House,Biryani,3,444,60,75,Credit Card,5.0,22,10.8,Delivered,New
+FD00981,C0096,2026-03-24,22:14,Vijayawada,South Flavours,Fast Food,5,757,60,50,Debit Card,3.5,42,4.5,Delivered,New
+FD00982,C0272,2026-01-02,20:56,Kakinada,Urban Kitchen,Pizza,2,282,20,0,Cash,4.0,72,11.3,Cancelled,Returning
+FD00983,C0041,2026-06-22,22:57,Kakinada,Cafe Corner,Indian,1,802,60,30,UPI,4.5,31,11.2,Delivered,Returning
+FD00984,C0184,2026-05-03,15:31,Hyderabad,Cafe Corner,Pizza,5,539,30,75,Credit Card,3.0,59,5.9,Delivered,Returning
+FD00985,C0167,2026-04-14,17:55,Bengaluru,Cafe Corner,Biryani,2,939,50,0,Credit Card,4.0,39,14.9,Delivered,Returning
+FD00986,C0188,2026-01-04,16:50,Kakinada,Biryani House,Biryani,5,526,30,0,UPI,4.0,45,3.1,Delivered,New
+FD00987,C0012,2026-05-08,16:10,Hyderabad,Urban Kitchen,Biryani,2,1146,60,100,Cash,4.0,42,14.3,Delivered,Returning
+FD00988,C0031,2026-04-01,11:04,Hyderabad,Cafe Corner,South Indian,3,439,30,75,Cash,3.5,41,7.9,Delivered,New
+FD00989,C0174,2026-06-11,14:43,Chennai,South Flavours,South Indian,1,1376,30,75,Debit Card,4.0,61,6.2,Delivered,Returning
+FD00990,C0290,2026-05-02,11:01,Bengaluru,Pizza Point,Chinese,2,578,40,100,Credit Card,4.0,55,13.8,Delivered,Returning
+FD00991,C0285,2026-03-29,19:50,Hyderabad,Tasty Treats,Biryani,3,1445,60,20,Credit Card,3.5,46,8.9,Delivered,Returning
+FD00992,C0262,2026-01-25,16:48,Vijayawada,Pizza Point,Indian,5,1155,50,75,Debit Card,3.0,43,6.5,Delivered,Returning
+FD00993,C0074,2026-04-04,22:03,Bengaluru,Tasty Treats,Biryani,1,820,40,75,Cash,4.5,24,12.0,Delivered,Returning
+FD00994,C0161,2026-06-04,18:12,Kakinada,Tasty Treats,South Indian,5,396,40,100,UPI,5.0,71,3.7,Cancelled,Returning
+FD00995,C0128,2026-04-07,16:44,Visakhapatnam,Urban Kitchen,Pizza,2,445,40,0,UPI,5.0,56,11.7,Delivered,Returning
+FD00996,C0239,2026-02-07,17:40,Bengaluru,Biryani House,South Indian,4,793,20,30,Cash,4.0,27,10.9,Delivered,Returning
+FD00997,C0084,2026-05-31,12:20,Visakhapatnam,Food Factory,Indian,3,1281,50,30,Credit Card,4.0,68,11.1,Cancelled,New
+FD00998,C0223,2026-06-15,15:25,Vijayawada,Pizza Point,South Indian,1,1468,40,30,UPI,4.5,18,11.1,Delivered,Returning
+FD00999,C0033,2026-01-18,12:09,Visakhapatnam,Biryani House,Fast Food,2,338,40,30,Debit Card,3.0,41,5.8,Delivered,Returning
+FD01000,C0206,2026-05-20,10:33,Bengaluru,South Flavours,Fast Food,2,1272,20,20,Cash,3.5,22,11.7,Delivered,New
+Lakshmi narayana,burger,guntur,2,150.0,2026-10-02
+Rajyalakshmi,Pizza,Visakhapatnam,1,170.0,2026-10-02
